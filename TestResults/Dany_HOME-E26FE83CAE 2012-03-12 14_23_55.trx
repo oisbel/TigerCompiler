@@ -1,0 +1,692 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="e0f35797-9837-46da-940f-e35a999074f4" name="Dany@HOME-E26FE83CAE 2012-03-12 14:23:55" runUser="HOME-E26FE83CAE\Dany" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="db3fc4c5-9574-448a-acee-8bc54bdc550b">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Dany_HOME-E26FE83CAE 2012-03-12 14_23_55">
+      <DeploymentItem filename="H:\lastversion\Compiler 8-3-2012\CompilersUtils\bin\Debug\CompilersUtils.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-03-12T14:23:55.2812500-05:00" queuing="2012-03-12T14:24:00.2968750-05:00" start="2012-03-12T14:24:00.6875000-05:00" finish="2012-03-12T14:24:13.0156250-05:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="93" executed="93" passed="93" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="test_array_string_nil" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="8c0af343-7fa9-77f2-656f-4d5deee86c5d">
+      <Execution id="23dc17d3-f697-4f90-a619-dcfa7c66b73a" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_array_string_nil" />
+    </UnitTest>
+    <UnitTest name="test_test26" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="044ddcd4-6330-7a22-e9f8-f33b453f18d7">
+      <Execution id="6473a6b1-85d3-41d2-8316-88c16aa4eb6e" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test26" />
+    </UnitTest>
+    <UnitTest name="test_invalid_mutually_recursive_function_depth_4" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="f4efcf97-2817-134e-d4cd-02e0e8ed7f47">
+      <Execution id="716d26e6-ee05-4f8d-b12d-afd069d9610c" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_invalid_mutually_recursive_function_depth_4" />
+    </UnitTest>
+    <UnitTest name="test_recursive_array_alias" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="041998ab-07f9-73fa-8039-7d960c796110">
+      <Execution id="968ba9e6-a107-427d-b6f0-8c72c77b87da" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_recursive_array_alias" />
+    </UnitTest>
+    <UnitTest name="test_test8" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="a384bb22-ddee-6569-96ae-a4c57e6d3916">
+      <Execution id="163ac245-557e-4506-a167-9176677d6354" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test8" />
+    </UnitTest>
+    <UnitTest name="test_and_operator_returns_value" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="b62d9364-7778-3e50-d7a6-6bf0ce856a2f">
+      <Execution id="ac3d36b3-6490-4bc7-b209-e8c240ae9132" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_and_operator_returns_value" />
+    </UnitTest>
+    <UnitTest name="test_test19" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="cab8b132-edf3-b22a-dafd-52e3f1e74a4c">
+      <Execution id="3f25dfeb-2c56-44d8-89c0-1a203295ee0a" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test19" />
+    </UnitTest>
+    <UnitTest name="test_test35" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="d93fbe60-89ed-bf54-6dfb-bec94ee26025">
+      <Execution id="23c982f1-47a8-4c1f-b49f-cca310dd7c1d" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test35" />
+    </UnitTest>
+    <UnitTest name="test_record_literal_invalid_types" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="f7361c7c-3b0f-6086-f159-11b4844d843d">
+      <Execution id="e8d1f675-8330-4c77-a4ab-ddd0853eab95" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_record_literal_invalid_types" />
+    </UnitTest>
+    <UnitTest name="test_record_access_incompatibles_types" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="6cf631e1-db7e-962a-558e-bc54f36bb57a">
+      <Execution id="4564a392-f9c6-4a7e-a68d-af77fc4ac966" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_record_access_incompatibles_types" />
+    </UnitTest>
+    <UnitTest name="test_break_out_of_for" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="ce2a8c2f-bbc2-eed5-1248-002e2907786b">
+      <Execution id="594944e4-6d84-4c2b-8cbb-b2ac05c67c2c" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_break_out_of_for" />
+    </UnitTest>
+    <UnitTest name="test_undefined_type_for_array_declaration" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="30a9dc30-d90c-bbee-e587-6b840a964a32">
+      <Execution id="bd3372dd-25d3-44a8-883f-4fef58a25531" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_undefined_type_for_array_declaration" />
+    </UnitTest>
+    <UnitTest name="test_undefined_type_for_alias" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="ecf43549-1da5-5f9d-4f70-8ce66cfb75f9">
+      <Execution id="9930a9da-2fb0-40dc-98c8-79c0c810828f" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_undefined_type_for_alias" />
+    </UnitTest>
+    <UnitTest name="test_test18" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="a472785a-6aac-8d41-8d14-3df81fa7d043">
+      <Execution id="00a9d6fd-0d5f-40c4-8744-41329a3e1726" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test18" />
+    </UnitTest>
+    <UnitTest name="test_test44" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="6d72d84f-797d-15c2-7042-642838b6df03">
+      <Execution id="94239b01-6075-4b63-b034-e51529ecf1e0" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test44" />
+    </UnitTest>
+    <UnitTest name="test_test34" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="33df6015-371d-7c50-5ef5-d8861ee19e12">
+      <Execution id="7a6ec51c-109d-4855-8011-9b372a4859ee" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test34" />
+    </UnitTest>
+    <UnitTest name="test_if_then_else_without_return_value" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="67c163c5-c8d3-5101-e815-2db32a75cf56">
+      <Execution id="930c2d0f-f047-4b68-8a02-ed09526bcbe8" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_if_then_else_without_return_value" />
+    </UnitTest>
+    <UnitTest name="test_test39" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="f16497eb-6a01-ee64-493f-fa445e31a0a3">
+      <Execution id="805db95e-85e1-4b34-b478-c0a6e93cca0a" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test39" />
+    </UnitTest>
+    <UnitTest name="test_test29" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="99ccbccc-8faa-d870-7334-5e51e17814a3">
+      <Execution id="17d2ccad-c802-40a0-943a-f89a606c36c1" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test29" />
+    </UnitTest>
+    <UnitTest name="test_test37" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="e23ffe73-c0b4-23de-3266-456dece737db">
+      <Execution id="7650e7dd-126a-4c58-8ba8-715c9c9a6ec8" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test37" />
+    </UnitTest>
+    <UnitTest name="test_test45" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="cda3dbd2-47ba-daee-07dc-a896644e4d82">
+      <Execution id="a875c85b-4e23-407f-9952-73c2d2d8bc05" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test45" />
+    </UnitTest>
+    <UnitTest name="test_procedure_same_parameters_name" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="3c85eb83-557f-5abd-129b-c696176453d1">
+      <Execution id="5c817e8c-b283-49b0-bb2d-d613a79f4666" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_procedure_same_parameters_name" />
+    </UnitTest>
+    <UnitTest name="test_test10" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="9936c7db-6cf6-2051-5d72-b9fe5c8e1ada">
+      <Execution id="05e72b12-736f-48e1-8c61-dbd7da78c5c9" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test10" />
+    </UnitTest>
+    <UnitTest name="test_mod2" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="3eaf5a1b-09ff-aa0a-8696-77810f03640d">
+      <Execution id="879db1fc-0994-4280-8854-9b805a1fdef3" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_mod2" />
+    </UnitTest>
+    <UnitTest name="test_nested_unavailable_function" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="c61736dc-d6c8-f953-d484-0d9a5b344127">
+      <Execution id="dc3d4c73-cf17-47e5-bd66-fe5e029ef77f" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_nested_unavailable_function" />
+    </UnitTest>
+    <UnitTest name="test_inferred_variable_incompatibles_type" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="b4c7ef8d-acd4-bb81-a04e-3b27f1d00de4">
+      <Execution id="fd334463-f499-46d4-a726-b7eed8d1cef3" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_inferred_variable_incompatibles_type" />
+    </UnitTest>
+    <UnitTest name="test_and_operator_invalid_type_operands" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="6491bb9a-c473-c29d-0621-addaa45ea010">
+      <Execution id="acf7272b-949e-4897-b170-33f9fadc3bcc" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_and_operator_invalid_type_operands" />
+    </UnitTest>
+    <UnitTest name="test_differents_types_array_assign" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="f1ff68f4-2ce6-1ac3-921c-079b2b95706c">
+      <Execution id="f8a0a973-efa5-461d-853d-2105d086a0f3" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_differents_types_array_assign" />
+    </UnitTest>
+    <UnitTest name="test_merge" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="019531f9-6c6d-6148-ff2d-d7912780c031">
+      <Execution id="03e827ae-5864-4c2e-972b-9dad9de28744" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_merge" />
+    </UnitTest>
+    <UnitTest name="test_mod5" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="a44cd249-8572-57ab-7e94-76db5bad3054">
+      <Execution id="22b433a0-e498-4121-b64c-68c72490e4d7" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_mod5" />
+    </UnitTest>
+    <UnitTest name="test_test33" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="f178d479-04b2-1f51-5b83-340d9c464883">
+      <Execution id="ff6aaa90-6700-4d8e-99d1-569b5515db73" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test33" />
+    </UnitTest>
+    <UnitTest name="test_test23" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="570f88f9-f5f9-b4a9-ed6f-3034933d7208">
+      <Execution id="6ec7aa64-b5ce-41fa-af64-83d234fad71c" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test23" />
+    </UnitTest>
+    <UnitTest name="test_invalid_mutually_recursive_record_depth_4" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="4f876700-47e2-ddf4-4e1d-31ab9f1d665d">
+      <Execution id="66858fa0-5aeb-4bdd-9888-fb4416b78c69" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_invalid_mutually_recursive_record_depth_4" />
+    </UnitTest>
+    <UnitTest name="test_test31" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="baf2563e-3009-d447-b0e7-170ab8463071">
+      <Execution id="50aa6fc6-1123-43c7-9f38-42af0dacd32e" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test31" />
+    </UnitTest>
+    <UnitTest name="test_mod4" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="c3679b4e-0952-8b62-ff50-a38002b5bb13">
+      <Execution id="65197f7f-9d5f-43ec-9ea7-54070849cbe1" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_mod4" />
+    </UnitTest>
+    <UnitTest name="test_test2" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="c4fb2239-0b02-8afd-06d9-ec6f804a8a52">
+      <Execution id="57378e42-fb17-4cb8-8c28-42775f588c04" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test2" />
+    </UnitTest>
+    <UnitTest name="test_mod7_2" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="f72187fc-b3e0-b7a6-6724-df81d1bfb604">
+      <Execution id="1ceedb58-d60c-4f20-b226-64e6db9b21c5" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_mod7_2" />
+    </UnitTest>
+    <UnitTest name="test_test27" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="a077de67-c679-41e7-f6a0-f3e9004988c8">
+      <Execution id="86d32e80-6286-4546-b1a2-cf3399513236" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test27" />
+    </UnitTest>
+    <UnitTest name="test_mod7_3" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="23273fad-a655-fb19-0591-a880a70c5eeb">
+      <Execution id="769e8d10-cd98-43e6-b8f9-c8158df6a66d" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_mod7_3" />
+    </UnitTest>
+    <UnitTest name="test_test50" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="0ff029d3-12bf-eeea-36b5-2f404d00e87a">
+      <Execution id="3ba23ebc-ffd1-4f42-952a-3fa26af2f4ec" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test50" />
+    </UnitTest>
+    <UnitTest name="test_queens" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="e6694f75-d598-6ffe-9c8e-bbfaecee7755">
+      <Execution id="698e20c6-99e7-4a98-be2e-dace96cca89c" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_queens" />
+    </UnitTest>
+    <UnitTest name="test_test17" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="da3e1bea-fd68-3dc0-d517-eb40039703ee">
+      <Execution id="e52572d6-801c-40e6-9e79-8fd6a6c397ab" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test17" />
+    </UnitTest>
+    <UnitTest name="test_test6" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="5607c4ab-1b6e-27ef-88db-5c98aa28e993">
+      <Execution id="684cd425-80b1-4aef-b059-7b1a182e4fd9" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test6" />
+    </UnitTest>
+    <UnitTest name="test_mutually_recursive_alias" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="b59a94a6-b3eb-5bc0-dedb-53c312b3dd38">
+      <Execution id="20c33446-f190-432d-ad8c-661daa553967" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_mutually_recursive_alias" />
+    </UnitTest>
+    <UnitTest name="test_test46" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="ff4c30d4-0e18-8aac-65dc-3010d8dc6819">
+      <Execution id="3041845a-2ef0-42a1-a0bb-2947f5f4bb11" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test46" />
+    </UnitTest>
+    <UnitTest name="test_test16" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="fb90f7ed-7430-80a6-0f96-1278e7153aad">
+      <Execution id="7ecbc741-feec-43db-8472-c73ab78c826a" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test16" />
+    </UnitTest>
+    <UnitTest name="test_break_out_of_while" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="29c89c54-d7fb-f98d-1f2a-27aade8fb1a1">
+      <Execution id="277a21f9-472d-4e1d-9af1-47e405e2e175" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_break_out_of_while" />
+    </UnitTest>
+    <UnitTest name="test_expression_sequence_returns_last_value" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="83e78d72-b212-dd46-9548-fec8071552c7">
+      <Execution id="9b7e63ee-4442-4a4d-b1e5-e7b244648a3d" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_expression_sequence_returns_last_value" />
+    </UnitTest>
+    <UnitTest name="test_mod8" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="510d376c-bc82-1db9-4c26-7765bd4900fd">
+      <Execution id="694a5af2-71f1-4eb1-9ffe-f5c3b4771cee" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_mod8" />
+    </UnitTest>
+    <UnitTest name="test_access_complex" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="487ad327-ee86-41b7-ddc2-994627f0d66e">
+      <Execution id="bffb3cc8-5d2e-45e5-88ca-e4b255ecbdbc" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_access_complex" />
+    </UnitTest>
+    <UnitTest name="test_mod3" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="97171acb-cce5-bb87-edb1-a40947c57107">
+      <Execution id="8a27b617-55c2-43fe-9f43-ed6eb76a0aff" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_mod3" />
+    </UnitTest>
+    <UnitTest name="test_incompatible_types_jagged_array" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="bedda814-012f-44ec-c334-f993d0f501c2">
+      <Execution id="5cbd9729-a792-44ff-b453-be16c416a7c2" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_incompatible_types_jagged_array" />
+    </UnitTest>
+    <UnitTest name="test_record_literal_less_params" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="653eb7ac-1e40-67fb-ee64-62985c81131e">
+      <Execution id="f44ac943-8eda-44cd-a6ed-c55b52ba50d8" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_record_literal_less_params" />
+    </UnitTest>
+    <UnitTest name="test_test4" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="909f0493-3a2b-3db1-9239-46de00bd2132">
+      <Execution id="2f63b934-75e2-4cfa-bcb2-b2f915cf47d2" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test4" />
+    </UnitTest>
+    <UnitTest name="test_test48" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="d050111e-1afa-c332-bab6-dc16fcf18a86">
+      <Execution id="8ff24418-578a-4a70-824a-86f262965428" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test48" />
+    </UnitTest>
+    <UnitTest name="test_test38" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="3c5d2c78-6807-923e-0707-565f55826a52">
+      <Execution id="2de5d1fe-9b16-40e3-b4ef-3af2b3083dc3" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test38" />
+    </UnitTest>
+    <UnitTest name="test_test42" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="c20e51b4-12b3-e19f-44f0-68b615cb9d34">
+      <Execution id="9c018c4f-2eb4-44eb-939e-e3c9fd337d31" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test42" />
+    </UnitTest>
+    <UnitTest name="test_test9" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="d6875146-3a82-65ba-0dc8-a42d822217f6">
+      <Execution id="45ce6495-2d0e-4d55-ad85-34cc1062f2d6" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test9" />
+    </UnitTest>
+    <UnitTest name="test_test30" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="f8f7e3fc-a32f-4b7e-3884-a77c284c6334">
+      <Execution id="1370373e-049a-4622-b983-edab5bdf542d" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test30" />
+    </UnitTest>
+    <UnitTest name="test_test5" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="2a289f39-5a92-deb7-3bfb-b0c29bd31f53">
+      <Execution id="83492d29-b8c3-4314-8555-1e83d894f460" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test5" />
+    </UnitTest>
+    <UnitTest name="test_test12" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="4f4b9668-5fc2-c922-c2a4-15a71f9d7a1b">
+      <Execution id="201bbd33-c2d6-4f3e-b7c7-feb46816ac64" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test12" />
+    </UnitTest>
+    <UnitTest name="test_invalid_mutually_recursive_record" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="72aa1a9e-7bdb-88d7-27ff-e8b4fa9b856a">
+      <Execution id="d9605a98-2819-44f7-812b-de94a4071acf" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_invalid_mutually_recursive_record" />
+    </UnitTest>
+    <UnitTest name="test_test13" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="dc1b746a-01eb-32a1-dd9f-13724fc026ff">
+      <Execution id="b2116e45-2393-4fd8-bb54-75e81f71ed4c" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test13" />
+    </UnitTest>
+    <UnitTest name="test_test15" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="c4fa99d9-cca8-ac70-06bb-cefbec6e204e">
+      <Execution id="906ddef4-06c5-474d-9d37-30b16f51a74c" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test15" />
+    </UnitTest>
+    <UnitTest name="test_test40" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="59f585d1-a0bb-33e9-4abb-19d69a17417d">
+      <Execution id="f0e69d97-7398-41e2-9ed2-89650220da48" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test40" />
+    </UnitTest>
+    <UnitTest name="test_test32" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="b072c1fb-dc11-85af-9856-d7106bde114d">
+      <Execution id="f89ada53-226d-4f30-bc7b-b50109d05670" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test32" />
+    </UnitTest>
+    <UnitTest name="test_array_init" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="e8d2f115-d73c-2867-cfd5-f324a2ef1c4b">
+      <Execution id="eb75d538-68b2-4764-b9ae-5f573e751a54" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_array_init" />
+    </UnitTest>
+    <UnitTest name="test_recursive_array" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="e5ba5b84-693c-c274-9024-67714abfd289">
+      <Execution id="975e26a1-f002-41e1-9201-7a4950da5c99" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_recursive_array" />
+    </UnitTest>
+    <UnitTest name="test_and_operator_non_valued_operands" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="7778cbf3-4c15-9b31-c5ab-9ec850cf89a5">
+      <Execution id="2a529e97-1c08-4117-9275-e2f9654234ee" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_and_operator_non_valued_operands" />
+    </UnitTest>
+    <UnitTest name="test_test1" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="46280aa5-4d15-904e-00e7-b0ec18a6f672">
+      <Execution id="0b0f0c40-61e4-41b8-8e5e-330f1f66c4c5" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test1" />
+    </UnitTest>
+    <UnitTest name="test_if_then_without_valued_condition" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="787fedd9-a949-1ea5-7ca7-01f74f289b04">
+      <Execution id="9897dad3-ba23-4ca2-9005-ecff8d2c24b3" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_if_then_without_valued_condition" />
+    </UnitTest>
+    <UnitTest name="test_record_literal_more_params" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="1592ab8f-1085-3308-e351-9274eada4786">
+      <Execution id="d10794c7-21ef-4e9a-b198-9894527cbe9e" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_record_literal_more_params" />
+    </UnitTest>
+    <UnitTest name="test_test22" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="bc0e1316-dbe6-b028-ade7-bfc7507988f6">
+      <Execution id="c309d0c7-98b8-4ad1-86a6-a17c10b3c5bf" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test22" />
+    </UnitTest>
+    <UnitTest name="test_test11" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="914b2a0c-dbfa-15bf-c67e-da89c4c3ca96">
+      <Execution id="812e0422-a979-4f6b-8678-bdb19da36533" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test11" />
+    </UnitTest>
+    <UnitTest name="test_test43" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="e202bc60-0634-baa5-9fb7-e483d26688e3">
+      <Execution id="85c8a23c-6f8f-442a-bf47-ff7bad642c72" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test43" />
+    </UnitTest>
+    <UnitTest name="test_invalid_mutually_recursive_function_depth_3" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="7c7d2692-7ab1-c90f-37ca-eafa8321abdc">
+      <Execution id="6cde1068-6db7-4e06-8a7c-37a454059720" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_invalid_mutually_recursive_function_depth_3" />
+    </UnitTest>
+    <UnitTest name="test_break_in_a_function" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="39e514c1-78c7-15fd-4b22-50c302b2163e">
+      <Execution id="45133111-6502-414b-9e12-4efc3b1cbbbe" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_break_in_a_function" />
+    </UnitTest>
+    <UnitTest name="test_test41" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="6cf12022-2ae0-7084-a31c-7e8297ba831d">
+      <Execution id="c8be6240-37b5-4e64-8cee-632236d22bf8" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test41" />
+    </UnitTest>
+    <UnitTest name="test_invalid_mutually_recursive_record_depth_3" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="a2d926c3-2110-bd3c-06f7-e7b666840b6e">
+      <Execution id="16cd9d62-6cfe-47bb-9691-e91a4e2f63f4" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_invalid_mutually_recursive_record_depth_3" />
+    </UnitTest>
+    <UnitTest name="test_mod7_1" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="a7316259-a78f-4c76-fc44-43a2d7ccb76e">
+      <Execution id="e930fc20-c9c3-448a-94e0-8741b0f8f9d2" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_mod7_1" />
+    </UnitTest>
+    <UnitTest name="test_divide_between_non_valued_right" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="a59733da-8885-c1da-b119-165c79329a1b">
+      <Execution id="834a4c16-0406-4529-a4d9-b295f94469ae" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_divide_between_non_valued_right" />
+    </UnitTest>
+    <UnitTest name="test_test28" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="36324f40-b2ea-1a81-62d1-737b148bbfa1">
+      <Execution id="17ca0773-b8f9-4dbe-a8ac-47707a73ba8b" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test28" />
+    </UnitTest>
+    <UnitTest name="test_mod6" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="4a01e103-991f-0e62-ab1c-3ca959d73353">
+      <Execution id="ed6a8ca4-f750-4e6d-9867-1bfe120e45e3" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_mod6" />
+    </UnitTest>
+    <UnitTest name="test_test36" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="f96446f0-229a-33bf-fd57-40890b9bd378">
+      <Execution id="c208f848-2374-4d98-a2e6-73942bffc9fc" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test36" />
+    </UnitTest>
+    <UnitTest name="test_test25" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="d690abc7-a328-cd83-8fdc-b127cf098887">
+      <Execution id="f0874827-5303-45c1-bbb2-bfb2de5dfc66" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test25" />
+    </UnitTest>
+    <UnitTest name="test_test24" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="c8045a47-9964-f48c-6e03-79936fb7aaa2">
+      <Execution id="f117f50b-0421-4a30-96e1-9ee1c5450fcd" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test24" />
+    </UnitTest>
+    <UnitTest name="test_test14" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="8a758c2f-0cd5-1d39-decc-a9938a65ea5c">
+      <Execution id="4c87618a-bfe9-45ab-806c-5d2b6a419146" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test14" />
+    </UnitTest>
+    <UnitTest name="test_test21" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="eec5b161-be3c-10b7-c8a8-069c5234b535">
+      <Execution id="9cc03e4e-0af5-464b-a18f-19b70af46411" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test21" />
+    </UnitTest>
+    <UnitTest name="test_test47" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="6abeaf16-1933-aee6-2e8b-ea4a38605847">
+      <Execution id="352bc8a9-c7b3-4abe-b52e-35c38b203e45" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test47" />
+    </UnitTest>
+    <UnitTest name="test_test7" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="d06f6746-ead1-f925-4604-460409e84f79">
+      <Execution id="adaafcd3-2039-4b40-bca6-5eb5cc051202" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test7" />
+    </UnitTest>
+    <UnitTest name="test_test49" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="c348fff9-c0f5-4dfb-10de-9bcc6c0e2e35">
+      <Execution id="7f8ff78e-ebd3-47e3-a38b-15522e7419c6" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test49" />
+    </UnitTest>
+    <UnitTest name="test_str" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="f671f60d-5960-0a4e-25da-4be80fa480eb">
+      <Execution id="bc6af930-66fc-432e-87e2-cdad3c07b57c" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_str" />
+    </UnitTest>
+    <UnitTest name="test_test3" storage="h:\lastversion\compiler 8-3-2012\testcompilertotiger\bin\debug\testcompilertotiger.dll" id="6935728c-f33b-b582-5cef-9b30d14c6ed4">
+      <Execution id="14babed2-eae2-49b1-8e2e-b1adbac0364e" />
+      <TestMethod codeBase="H:/lastversion/Compiler 8-3-2012/TestCompilerToTiger/bin/Debug/TestCompilerToTiger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCompilerToTiger.UnitTest1, TestCompilerToTiger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="test_test3" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="019531f9-6c6d-6148-ff2d-d7912780c031" executionId="03e827ae-5864-4c2e-972b-9dad9de28744" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="041998ab-07f9-73fa-8039-7d960c796110" executionId="968ba9e6-a107-427d-b6f0-8c72c77b87da" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="044ddcd4-6330-7a22-e9f8-f33b453f18d7" executionId="6473a6b1-85d3-41d2-8316-88c16aa4eb6e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0ff029d3-12bf-eeea-36b5-2f404d00e87a" executionId="3ba23ebc-ffd1-4f42-952a-3fa26af2f4ec" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1592ab8f-1085-3308-e351-9274eada4786" executionId="d10794c7-21ef-4e9a-b198-9894527cbe9e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="23273fad-a655-fb19-0591-a880a70c5eeb" executionId="769e8d10-cd98-43e6-b8f9-c8158df6a66d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="29c89c54-d7fb-f98d-1f2a-27aade8fb1a1" executionId="277a21f9-472d-4e1d-9af1-47e405e2e175" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2a289f39-5a92-deb7-3bfb-b0c29bd31f53" executionId="83492d29-b8c3-4314-8555-1e83d894f460" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="30a9dc30-d90c-bbee-e587-6b840a964a32" executionId="bd3372dd-25d3-44a8-883f-4fef58a25531" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="33df6015-371d-7c50-5ef5-d8861ee19e12" executionId="7a6ec51c-109d-4855-8011-9b372a4859ee" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="36324f40-b2ea-1a81-62d1-737b148bbfa1" executionId="17ca0773-b8f9-4dbe-a8ac-47707a73ba8b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="39e514c1-78c7-15fd-4b22-50c302b2163e" executionId="45133111-6502-414b-9e12-4efc3b1cbbbe" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3c5d2c78-6807-923e-0707-565f55826a52" executionId="2de5d1fe-9b16-40e3-b4ef-3af2b3083dc3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3c85eb83-557f-5abd-129b-c696176453d1" executionId="5c817e8c-b283-49b0-bb2d-d613a79f4666" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3eaf5a1b-09ff-aa0a-8696-77810f03640d" executionId="879db1fc-0994-4280-8854-9b805a1fdef3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="46280aa5-4d15-904e-00e7-b0ec18a6f672" executionId="0b0f0c40-61e4-41b8-8e5e-330f1f66c4c5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="487ad327-ee86-41b7-ddc2-994627f0d66e" executionId="bffb3cc8-5d2e-45e5-88ca-e4b255ecbdbc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4a01e103-991f-0e62-ab1c-3ca959d73353" executionId="ed6a8ca4-f750-4e6d-9867-1bfe120e45e3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4f4b9668-5fc2-c922-c2a4-15a71f9d7a1b" executionId="201bbd33-c2d6-4f3e-b7c7-feb46816ac64" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4f876700-47e2-ddf4-4e1d-31ab9f1d665d" executionId="66858fa0-5aeb-4bdd-9888-fb4416b78c69" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="510d376c-bc82-1db9-4c26-7765bd4900fd" executionId="694a5af2-71f1-4eb1-9ffe-f5c3b4771cee" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5607c4ab-1b6e-27ef-88db-5c98aa28e993" executionId="684cd425-80b1-4aef-b059-7b1a182e4fd9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="570f88f9-f5f9-b4a9-ed6f-3034933d7208" executionId="6ec7aa64-b5ce-41fa-af64-83d234fad71c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="59f585d1-a0bb-33e9-4abb-19d69a17417d" executionId="f0e69d97-7398-41e2-9ed2-89650220da48" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6491bb9a-c473-c29d-0621-addaa45ea010" executionId="acf7272b-949e-4897-b170-33f9fadc3bcc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="653eb7ac-1e40-67fb-ee64-62985c81131e" executionId="f44ac943-8eda-44cd-a6ed-c55b52ba50d8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="67c163c5-c8d3-5101-e815-2db32a75cf56" executionId="930c2d0f-f047-4b68-8a02-ed09526bcbe8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6935728c-f33b-b582-5cef-9b30d14c6ed4" executionId="14babed2-eae2-49b1-8e2e-b1adbac0364e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6abeaf16-1933-aee6-2e8b-ea4a38605847" executionId="352bc8a9-c7b3-4abe-b52e-35c38b203e45" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6cf12022-2ae0-7084-a31c-7e8297ba831d" executionId="c8be6240-37b5-4e64-8cee-632236d22bf8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6cf631e1-db7e-962a-558e-bc54f36bb57a" executionId="4564a392-f9c6-4a7e-a68d-af77fc4ac966" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6d72d84f-797d-15c2-7042-642838b6df03" executionId="94239b01-6075-4b63-b034-e51529ecf1e0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="72aa1a9e-7bdb-88d7-27ff-e8b4fa9b856a" executionId="d9605a98-2819-44f7-812b-de94a4071acf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7778cbf3-4c15-9b31-c5ab-9ec850cf89a5" executionId="2a529e97-1c08-4117-9275-e2f9654234ee" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="787fedd9-a949-1ea5-7ca7-01f74f289b04" executionId="9897dad3-ba23-4ca2-9005-ecff8d2c24b3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7c7d2692-7ab1-c90f-37ca-eafa8321abdc" executionId="6cde1068-6db7-4e06-8a7c-37a454059720" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="83e78d72-b212-dd46-9548-fec8071552c7" executionId="9b7e63ee-4442-4a4d-b1e5-e7b244648a3d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8a758c2f-0cd5-1d39-decc-a9938a65ea5c" executionId="4c87618a-bfe9-45ab-806c-5d2b6a419146" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8c0af343-7fa9-77f2-656f-4d5deee86c5d" executionId="23dc17d3-f697-4f90-a619-dcfa7c66b73a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="909f0493-3a2b-3db1-9239-46de00bd2132" executionId="2f63b934-75e2-4cfa-bcb2-b2f915cf47d2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="914b2a0c-dbfa-15bf-c67e-da89c4c3ca96" executionId="812e0422-a979-4f6b-8678-bdb19da36533" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="97171acb-cce5-bb87-edb1-a40947c57107" executionId="8a27b617-55c2-43fe-9f43-ed6eb76a0aff" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9936c7db-6cf6-2051-5d72-b9fe5c8e1ada" executionId="05e72b12-736f-48e1-8c61-dbd7da78c5c9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="99ccbccc-8faa-d870-7334-5e51e17814a3" executionId="17d2ccad-c802-40a0-943a-f89a606c36c1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a077de67-c679-41e7-f6a0-f3e9004988c8" executionId="86d32e80-6286-4546-b1a2-cf3399513236" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a2d926c3-2110-bd3c-06f7-e7b666840b6e" executionId="16cd9d62-6cfe-47bb-9691-e91a4e2f63f4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a384bb22-ddee-6569-96ae-a4c57e6d3916" executionId="163ac245-557e-4506-a167-9176677d6354" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a44cd249-8572-57ab-7e94-76db5bad3054" executionId="22b433a0-e498-4121-b64c-68c72490e4d7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a472785a-6aac-8d41-8d14-3df81fa7d043" executionId="00a9d6fd-0d5f-40c4-8744-41329a3e1726" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a59733da-8885-c1da-b119-165c79329a1b" executionId="834a4c16-0406-4529-a4d9-b295f94469ae" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a7316259-a78f-4c76-fc44-43a2d7ccb76e" executionId="e930fc20-c9c3-448a-94e0-8741b0f8f9d2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b072c1fb-dc11-85af-9856-d7106bde114d" executionId="f89ada53-226d-4f30-bc7b-b50109d05670" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b4c7ef8d-acd4-bb81-a04e-3b27f1d00de4" executionId="fd334463-f499-46d4-a726-b7eed8d1cef3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b59a94a6-b3eb-5bc0-dedb-53c312b3dd38" executionId="20c33446-f190-432d-ad8c-661daa553967" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b62d9364-7778-3e50-d7a6-6bf0ce856a2f" executionId="ac3d36b3-6490-4bc7-b209-e8c240ae9132" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="baf2563e-3009-d447-b0e7-170ab8463071" executionId="50aa6fc6-1123-43c7-9f38-42af0dacd32e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bc0e1316-dbe6-b028-ade7-bfc7507988f6" executionId="c309d0c7-98b8-4ad1-86a6-a17c10b3c5bf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bedda814-012f-44ec-c334-f993d0f501c2" executionId="5cbd9729-a792-44ff-b453-be16c416a7c2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c20e51b4-12b3-e19f-44f0-68b615cb9d34" executionId="9c018c4f-2eb4-44eb-939e-e3c9fd337d31" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c348fff9-c0f5-4dfb-10de-9bcc6c0e2e35" executionId="7f8ff78e-ebd3-47e3-a38b-15522e7419c6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c3679b4e-0952-8b62-ff50-a38002b5bb13" executionId="65197f7f-9d5f-43ec-9ea7-54070849cbe1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c4fa99d9-cca8-ac70-06bb-cefbec6e204e" executionId="906ddef4-06c5-474d-9d37-30b16f51a74c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c4fb2239-0b02-8afd-06d9-ec6f804a8a52" executionId="57378e42-fb17-4cb8-8c28-42775f588c04" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c61736dc-d6c8-f953-d484-0d9a5b344127" executionId="dc3d4c73-cf17-47e5-bd66-fe5e029ef77f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c8045a47-9964-f48c-6e03-79936fb7aaa2" executionId="f117f50b-0421-4a30-96e1-9ee1c5450fcd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cab8b132-edf3-b22a-dafd-52e3f1e74a4c" executionId="3f25dfeb-2c56-44d8-89c0-1a203295ee0a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cda3dbd2-47ba-daee-07dc-a896644e4d82" executionId="a875c85b-4e23-407f-9952-73c2d2d8bc05" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ce2a8c2f-bbc2-eed5-1248-002e2907786b" executionId="594944e4-6d84-4c2b-8cbb-b2ac05c67c2c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d050111e-1afa-c332-bab6-dc16fcf18a86" executionId="8ff24418-578a-4a70-824a-86f262965428" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d06f6746-ead1-f925-4604-460409e84f79" executionId="adaafcd3-2039-4b40-bca6-5eb5cc051202" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d6875146-3a82-65ba-0dc8-a42d822217f6" executionId="45ce6495-2d0e-4d55-ad85-34cc1062f2d6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d690abc7-a328-cd83-8fdc-b127cf098887" executionId="f0874827-5303-45c1-bbb2-bfb2de5dfc66" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d93fbe60-89ed-bf54-6dfb-bec94ee26025" executionId="23c982f1-47a8-4c1f-b49f-cca310dd7c1d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="da3e1bea-fd68-3dc0-d517-eb40039703ee" executionId="e52572d6-801c-40e6-9e79-8fd6a6c397ab" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="dc1b746a-01eb-32a1-dd9f-13724fc026ff" executionId="b2116e45-2393-4fd8-bb54-75e81f71ed4c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e202bc60-0634-baa5-9fb7-e483d26688e3" executionId="85c8a23c-6f8f-442a-bf47-ff7bad642c72" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e23ffe73-c0b4-23de-3266-456dece737db" executionId="7650e7dd-126a-4c58-8ba8-715c9c9a6ec8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e5ba5b84-693c-c274-9024-67714abfd289" executionId="975e26a1-f002-41e1-9201-7a4950da5c99" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e6694f75-d598-6ffe-9c8e-bbfaecee7755" executionId="698e20c6-99e7-4a98-be2e-dace96cca89c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e8d2f115-d73c-2867-cfd5-f324a2ef1c4b" executionId="eb75d538-68b2-4764-b9ae-5f573e751a54" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ecf43549-1da5-5f9d-4f70-8ce66cfb75f9" executionId="9930a9da-2fb0-40dc-98c8-79c0c810828f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="eec5b161-be3c-10b7-c8a8-069c5234b535" executionId="9cc03e4e-0af5-464b-a18f-19b70af46411" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f16497eb-6a01-ee64-493f-fa445e31a0a3" executionId="805db95e-85e1-4b34-b478-c0a6e93cca0a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f178d479-04b2-1f51-5b83-340d9c464883" executionId="ff6aaa90-6700-4d8e-99d1-569b5515db73" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f1ff68f4-2ce6-1ac3-921c-079b2b95706c" executionId="f8a0a973-efa5-461d-853d-2105d086a0f3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f4efcf97-2817-134e-d4cd-02e0e8ed7f47" executionId="716d26e6-ee05-4f8d-b12d-afd069d9610c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f671f60d-5960-0a4e-25da-4be80fa480eb" executionId="bc6af930-66fc-432e-87e2-cdad3c07b57c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f72187fc-b3e0-b7a6-6724-df81d1bfb604" executionId="1ceedb58-d60c-4f20-b226-64e6db9b21c5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f7361c7c-3b0f-6086-f159-11b4844d843d" executionId="e8d1f675-8330-4c77-a4ab-ddd0853eab95" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f8f7e3fc-a32f-4b7e-3884-a77c284c6334" executionId="1370373e-049a-4622-b983-edab5bdf542d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f96446f0-229a-33bf-fd57-40890b9bd378" executionId="c208f848-2374-4d98-a2e6-73942bffc9fc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fb90f7ed-7430-80a6-0f96-1278e7153aad" executionId="7ecbc741-feec-43db-8472-c73ab78c826a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ff4c30d4-0e18-8aac-65dc-3010d8dc6819" executionId="3041845a-2ef0-42a1-a0bb-2947f5f4bb11" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="03e827ae-5864-4c2e-972b-9dad9de28744" testId="019531f9-6c6d-6148-ff2d-d7912780c031" testName="test_merge" computerName="HOME-E26FE83CAE" duration="00:00:00.0209016" startTime="2012-03-12T14:24:01.0000000-05:00" endTime="2012-03-12T14:24:03.1875000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="03e827ae-5864-4c2e-972b-9dad9de28744">
+    </UnitTestResult>
+    <UnitTestResult executionId="968ba9e6-a107-427d-b6f0-8c72c77b87da" testId="041998ab-07f9-73fa-8039-7d960c796110" testName="test_recursive_array_alias" computerName="HOME-E26FE83CAE" duration="00:00:00.0003430" startTime="2012-03-12T14:24:03.2656250-05:00" endTime="2012-03-12T14:24:03.2812500-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="968ba9e6-a107-427d-b6f0-8c72c77b87da">
+    </UnitTestResult>
+    <UnitTestResult executionId="6473a6b1-85d3-41d2-8316-88c16aa4eb6e" testId="044ddcd4-6330-7a22-e9f8-f33b453f18d7" testName="test_test26" computerName="HOME-E26FE83CAE" duration="00:00:00.2449549" startTime="2012-03-12T14:24:03.3281250-05:00" endTime="2012-03-12T14:24:03.5937500-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6473a6b1-85d3-41d2-8316-88c16aa4eb6e">
+    </UnitTestResult>
+    <UnitTestResult executionId="3ba23ebc-ffd1-4f42-952a-3fa26af2f4ec" testId="0ff029d3-12bf-eeea-36b5-2f404d00e87a" testName="test_test50" computerName="HOME-E26FE83CAE" duration="00:00:00.0670501" startTime="2012-03-12T14:24:03.6406250-05:00" endTime="2012-03-12T14:24:03.7343750-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3ba23ebc-ffd1-4f42-952a-3fa26af2f4ec">
+    </UnitTestResult>
+    <UnitTestResult executionId="d10794c7-21ef-4e9a-b198-9894527cbe9e" testId="1592ab8f-1085-3308-e351-9274eada4786" testName="test_record_literal_more_params" computerName="HOME-E26FE83CAE" duration="00:00:00.0099565" startTime="2012-03-12T14:24:03.7812500-05:00" endTime="2012-03-12T14:24:03.8125000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d10794c7-21ef-4e9a-b198-9894527cbe9e">
+    </UnitTestResult>
+    <UnitTestResult executionId="769e8d10-cd98-43e6-b8f9-c8158df6a66d" testId="23273fad-a655-fb19-0591-a880a70c5eeb" testName="test_mod7_3" computerName="HOME-E26FE83CAE" duration="00:00:00.0264447" startTime="2012-03-12T14:24:03.8593750-05:00" endTime="2012-03-12T14:24:03.9218750-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="769e8d10-cd98-43e6-b8f9-c8158df6a66d">
+    </UnitTestResult>
+    <UnitTestResult executionId="277a21f9-472d-4e1d-9af1-47e405e2e175" testId="29c89c54-d7fb-f98d-1f2a-27aade8fb1a1" testName="test_break_out_of_while" computerName="HOME-E26FE83CAE" duration="00:00:00.0100126" startTime="2012-03-12T14:24:03.9687500-05:00" endTime="2012-03-12T14:24:04.0000000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="277a21f9-472d-4e1d-9af1-47e405e2e175">
+    </UnitTestResult>
+    <UnitTestResult executionId="83492d29-b8c3-4314-8555-1e83d894f460" testId="2a289f39-5a92-deb7-3bfb-b0c29bd31f53" testName="test_test5" computerName="HOME-E26FE83CAE" duration="00:00:00.0057420" startTime="2012-03-12T14:24:04.0468750-05:00" endTime="2012-03-12T14:24:04.0781250-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="83492d29-b8c3-4314-8555-1e83d894f460">
+    </UnitTestResult>
+    <UnitTestResult executionId="bd3372dd-25d3-44a8-883f-4fef58a25531" testId="30a9dc30-d90c-bbee-e587-6b840a964a32" testName="test_undefined_type_for_array_declaration" computerName="HOME-E26FE83CAE" duration="00:00:00.0059501" startTime="2012-03-12T14:24:04.1250000-05:00" endTime="2012-03-12T14:24:04.1562500-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bd3372dd-25d3-44a8-883f-4fef58a25531">
+    </UnitTestResult>
+    <UnitTestResult executionId="7a6ec51c-109d-4855-8011-9b372a4859ee" testId="33df6015-371d-7c50-5ef5-d8861ee19e12" testName="test_test34" computerName="HOME-E26FE83CAE" duration="00:00:00.0193438" startTime="2012-03-12T14:24:04.2031250-05:00" endTime="2012-03-12T14:24:04.2343750-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7a6ec51c-109d-4855-8011-9b372a4859ee">
+    </UnitTestResult>
+    <UnitTestResult executionId="17ca0773-b8f9-4dbe-a8ac-47707a73ba8b" testId="36324f40-b2ea-1a81-62d1-737b148bbfa1" testName="test_test28" computerName="HOME-E26FE83CAE" duration="00:00:00.0063646" startTime="2012-03-12T14:24:04.2812500-05:00" endTime="2012-03-12T14:24:04.3125000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="17ca0773-b8f9-4dbe-a8ac-47707a73ba8b">
+    </UnitTestResult>
+    <UnitTestResult executionId="45133111-6502-414b-9e12-4efc3b1cbbbe" testId="39e514c1-78c7-15fd-4b22-50c302b2163e" testName="test_break_in_a_function" computerName="HOME-E26FE83CAE" duration="00:00:00.0097740" startTime="2012-03-12T14:24:04.3593750-05:00" endTime="2012-03-12T14:24:04.3906250-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="45133111-6502-414b-9e12-4efc3b1cbbbe">
+    </UnitTestResult>
+    <UnitTestResult executionId="2de5d1fe-9b16-40e3-b4ef-3af2b3083dc3" testId="3c5d2c78-6807-923e-0707-565f55826a52" testName="test_test38" computerName="HOME-E26FE83CAE" duration="00:00:00.0088607" startTime="2012-03-12T14:24:04.4375000-05:00" endTime="2012-03-12T14:24:04.4687500-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2de5d1fe-9b16-40e3-b4ef-3af2b3083dc3">
+    </UnitTestResult>
+    <UnitTestResult executionId="5c817e8c-b283-49b0-bb2d-d613a79f4666" testId="3c85eb83-557f-5abd-129b-c696176453d1" testName="test_procedure_same_parameters_name" computerName="HOME-E26FE83CAE" duration="00:00:00.0058462" startTime="2012-03-12T14:24:04.5312500-05:00" endTime="2012-03-12T14:24:04.5468750-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5c817e8c-b283-49b0-bb2d-d613a79f4666">
+    </UnitTestResult>
+    <UnitTestResult executionId="879db1fc-0994-4280-8854-9b805a1fdef3" testId="3eaf5a1b-09ff-aa0a-8696-77810f03640d" testName="test_mod2" computerName="HOME-E26FE83CAE" duration="00:00:00.0059779" startTime="2012-03-12T14:24:04.5937500-05:00" endTime="2012-03-12T14:24:04.6250000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="879db1fc-0994-4280-8854-9b805a1fdef3">
+    </UnitTestResult>
+    <UnitTestResult executionId="0b0f0c40-61e4-41b8-8e5e-330f1f66c4c5" testId="46280aa5-4d15-904e-00e7-b0ec18a6f672" testName="test_test1" computerName="HOME-E26FE83CAE" duration="00:00:00.0057691" startTime="2012-03-12T14:24:04.6718750-05:00" endTime="2012-03-12T14:24:04.7031250-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0b0f0c40-61e4-41b8-8e5e-330f1f66c4c5">
+    </UnitTestResult>
+    <UnitTestResult executionId="bffb3cc8-5d2e-45e5-88ca-e4b255ecbdbc" testId="487ad327-ee86-41b7-ddc2-994627f0d66e" testName="test_access_complex" computerName="HOME-E26FE83CAE" duration="00:00:00.2858210" startTime="2012-03-12T14:24:04.7500000-05:00" endTime="2012-03-12T14:24:05.0468750-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bffb3cc8-5d2e-45e5-88ca-e4b255ecbdbc">
+      <Output>
+        <StdOut>Unable to cast object of type 'CompilersUtils.RecordNode' to type 'CompilersUtils.LValueNode'.</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="ed6a8ca4-f750-4e6d-9867-1bfe120e45e3" testId="4a01e103-991f-0e62-ab1c-3ca959d73353" testName="test_mod6" computerName="HOME-E26FE83CAE" duration="00:00:00.0067550" startTime="2012-03-12T14:24:05.1875000-05:00" endTime="2012-03-12T14:24:05.2187500-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ed6a8ca4-f750-4e6d-9867-1bfe120e45e3">
+    </UnitTestResult>
+    <UnitTestResult executionId="201bbd33-c2d6-4f3e-b7c7-feb46816ac64" testId="4f4b9668-5fc2-c922-c2a4-15a71f9d7a1b" testName="test_test12" computerName="HOME-E26FE83CAE" duration="00:00:00.0058183" startTime="2012-03-12T14:24:05.2656250-05:00" endTime="2012-03-12T14:24:05.2968750-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="201bbd33-c2d6-4f3e-b7c7-feb46816ac64">
+    </UnitTestResult>
+    <UnitTestResult executionId="66858fa0-5aeb-4bdd-9888-fb4416b78c69" testId="4f876700-47e2-ddf4-4e1d-31ab9f1d665d" testName="test_invalid_mutually_recursive_record_depth_4" computerName="HOME-E26FE83CAE" duration="00:00:00.0070123" startTime="2012-03-12T14:24:05.5156250-05:00" endTime="2012-03-12T14:24:05.5312500-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="66858fa0-5aeb-4bdd-9888-fb4416b78c69">
+    </UnitTestResult>
+    <UnitTestResult executionId="694a5af2-71f1-4eb1-9ffe-f5c3b4771cee" testId="510d376c-bc82-1db9-4c26-7765bd4900fd" testName="test_mod8" computerName="HOME-E26FE83CAE" duration="00:00:00.0343957" startTime="2012-03-12T14:24:05.5937500-05:00" endTime="2012-03-12T14:24:05.6406250-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="694a5af2-71f1-4eb1-9ffe-f5c3b4771cee">
+      <Output>
+        <StdOut>Unable to cast object of type 'CompilersUtils.RecordNode' to type 'CompilersUtils.LValueNode'.</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="684cd425-80b1-4aef-b059-7b1a182e4fd9" testId="5607c4ab-1b6e-27ef-88db-5c98aa28e993" testName="test_test6" computerName="HOME-E26FE83CAE" duration="00:00:00.0061186" startTime="2012-03-12T14:24:05.6875000-05:00" endTime="2012-03-12T14:24:05.7187500-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="684cd425-80b1-4aef-b059-7b1a182e4fd9">
+    </UnitTestResult>
+    <UnitTestResult executionId="6ec7aa64-b5ce-41fa-af64-83d234fad71c" testId="570f88f9-f5f9-b4a9-ed6f-3034933d7208" testName="test_test23" computerName="HOME-E26FE83CAE" duration="00:00:00.0058862" startTime="2012-03-12T14:24:05.7656250-05:00" endTime="2012-03-12T14:24:05.7968750-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6ec7aa64-b5ce-41fa-af64-83d234fad71c">
+    </UnitTestResult>
+    <UnitTestResult executionId="f0e69d97-7398-41e2-9ed2-89650220da48" testId="59f585d1-a0bb-33e9-4abb-19d69a17417d" testName="test_test40" computerName="HOME-E26FE83CAE" duration="00:00:00.0056104" startTime="2012-03-12T14:24:05.8437500-05:00" endTime="2012-03-12T14:24:05.8750000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f0e69d97-7398-41e2-9ed2-89650220da48">
+    </UnitTestResult>
+    <UnitTestResult executionId="acf7272b-949e-4897-b170-33f9fadc3bcc" testId="6491bb9a-c473-c29d-0621-addaa45ea010" testName="test_and_operator_invalid_type_operands" computerName="HOME-E26FE83CAE" duration="00:00:00.0101571" startTime="2012-03-12T14:24:05.9218750-05:00" endTime="2012-03-12T14:24:05.9531250-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="acf7272b-949e-4897-b170-33f9fadc3bcc">
+    </UnitTestResult>
+    <UnitTestResult executionId="f44ac943-8eda-44cd-a6ed-c55b52ba50d8" testId="653eb7ac-1e40-67fb-ee64-62985c81131e" testName="test_record_literal_less_params" computerName="HOME-E26FE83CAE" duration="00:00:00.0060279" startTime="2012-03-12T14:24:06.0000000-05:00" endTime="2012-03-12T14:24:06.0312500-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f44ac943-8eda-44cd-a6ed-c55b52ba50d8">
+    </UnitTestResult>
+    <UnitTestResult executionId="930c2d0f-f047-4b68-8a02-ed09526bcbe8" testId="67c163c5-c8d3-5101-e815-2db32a75cf56" testName="test_if_then_else_without_return_value" computerName="HOME-E26FE83CAE" duration="00:00:00.0086313" startTime="2012-03-12T14:24:06.0781250-05:00" endTime="2012-03-12T14:24:06.1093750-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="930c2d0f-f047-4b68-8a02-ed09526bcbe8">
+    </UnitTestResult>
+    <UnitTestResult executionId="14babed2-eae2-49b1-8e2e-b1adbac0364e" testId="6935728c-f33b-b582-5cef-9b30d14c6ed4" testName="test_test3" computerName="HOME-E26FE83CAE" duration="00:00:00.0057503" startTime="2012-03-12T14:24:06.1562500-05:00" endTime="2012-03-12T14:24:06.1875000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="14babed2-eae2-49b1-8e2e-b1adbac0364e">
+    </UnitTestResult>
+    <UnitTestResult executionId="352bc8a9-c7b3-4abe-b52e-35c38b203e45" testId="6abeaf16-1933-aee6-2e8b-ea4a38605847" testName="test_test47" computerName="HOME-E26FE83CAE" duration="00:00:00.0058022" startTime="2012-03-12T14:24:06.2343750-05:00" endTime="2012-03-12T14:24:06.2500000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="352bc8a9-c7b3-4abe-b52e-35c38b203e45">
+    </UnitTestResult>
+    <UnitTestResult executionId="c8be6240-37b5-4e64-8cee-632236d22bf8" testId="6cf12022-2ae0-7084-a31c-7e8297ba831d" testName="test_test41" computerName="HOME-E26FE83CAE" duration="00:00:00.0055821" startTime="2012-03-12T14:24:06.2968750-05:00" endTime="2012-03-12T14:24:06.3281250-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c8be6240-37b5-4e64-8cee-632236d22bf8">
+    </UnitTestResult>
+    <UnitTestResult executionId="4564a392-f9c6-4a7e-a68d-af77fc4ac966" testId="6cf631e1-db7e-962a-558e-bc54f36bb57a" testName="test_record_access_incompatibles_types" computerName="HOME-E26FE83CAE" duration="00:00:00.0058464" startTime="2012-03-12T14:24:06.3750000-05:00" endTime="2012-03-12T14:24:06.4062500-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4564a392-f9c6-4a7e-a68d-af77fc4ac966">
+    </UnitTestResult>
+    <UnitTestResult executionId="94239b01-6075-4b63-b034-e51529ecf1e0" testId="6d72d84f-797d-15c2-7042-642838b6df03" testName="test_test44" computerName="HOME-E26FE83CAE" duration="00:00:00.0053101" startTime="2012-03-12T14:24:06.4531250-05:00" endTime="2012-03-12T14:24:06.4687500-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="94239b01-6075-4b63-b034-e51529ecf1e0">
+    </UnitTestResult>
+    <UnitTestResult executionId="d9605a98-2819-44f7-812b-de94a4071acf" testId="72aa1a9e-7bdb-88d7-27ff-e8b4fa9b856a" testName="test_invalid_mutually_recursive_record" computerName="HOME-E26FE83CAE" duration="00:00:00.0060517" startTime="2012-03-12T14:24:06.5156250-05:00" endTime="2012-03-12T14:24:06.5468750-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d9605a98-2819-44f7-812b-de94a4071acf">
+    </UnitTestResult>
+    <UnitTestResult executionId="2a529e97-1c08-4117-9275-e2f9654234ee" testId="7778cbf3-4c15-9b31-c5ab-9ec850cf89a5" testName="test_and_operator_non_valued_operands" computerName="HOME-E26FE83CAE" duration="00:00:00.0062026" startTime="2012-03-12T14:24:06.6093750-05:00" endTime="2012-03-12T14:24:06.6250000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2a529e97-1c08-4117-9275-e2f9654234ee">
+    </UnitTestResult>
+    <UnitTestResult executionId="9897dad3-ba23-4ca2-9005-ecff8d2c24b3" testId="787fedd9-a949-1ea5-7ca7-01f74f289b04" testName="test_if_then_without_valued_condition" computerName="HOME-E26FE83CAE" duration="00:00:00.0060591" startTime="2012-03-12T14:24:06.6718750-05:00" endTime="2012-03-12T14:24:06.7031250-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9897dad3-ba23-4ca2-9005-ecff8d2c24b3">
+    </UnitTestResult>
+    <UnitTestResult executionId="6cde1068-6db7-4e06-8a7c-37a454059720" testId="7c7d2692-7ab1-c90f-37ca-eafa8321abdc" testName="test_invalid_mutually_recursive_function_depth_3" computerName="HOME-E26FE83CAE" duration="00:00:00.0063948" startTime="2012-03-12T14:24:06.7500000-05:00" endTime="2012-03-12T14:24:06.7968750-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6cde1068-6db7-4e06-8a7c-37a454059720">
+    </UnitTestResult>
+    <UnitTestResult executionId="9b7e63ee-4442-4a4d-b1e5-e7b244648a3d" testId="83e78d72-b212-dd46-9548-fec8071552c7" testName="test_expression_sequence_returns_last_value" computerName="HOME-E26FE83CAE" duration="00:00:00.0059270" startTime="2012-03-12T14:24:06.8281250-05:00" endTime="2012-03-12T14:24:06.8593750-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9b7e63ee-4442-4a4d-b1e5-e7b244648a3d">
+    </UnitTestResult>
+    <UnitTestResult executionId="4c87618a-bfe9-45ab-806c-5d2b6a419146" testId="8a758c2f-0cd5-1d39-decc-a9938a65ea5c" testName="test_test14" computerName="HOME-E26FE83CAE" duration="00:00:00.0066839" startTime="2012-03-12T14:24:07.0937500-05:00" endTime="2012-03-12T14:24:07.1250000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4c87618a-bfe9-45ab-806c-5d2b6a419146">
+    </UnitTestResult>
+    <UnitTestResult executionId="23dc17d3-f697-4f90-a619-dcfa7c66b73a" testId="8c0af343-7fa9-77f2-656f-4d5deee86c5d" testName="test_array_string_nil" computerName="HOME-E26FE83CAE" duration="00:00:00.0055805" startTime="2012-03-12T14:24:07.1718750-05:00" endTime="2012-03-12T14:24:07.1875000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="23dc17d3-f697-4f90-a619-dcfa7c66b73a">
+    </UnitTestResult>
+    <UnitTestResult executionId="2f63b934-75e2-4cfa-bcb2-b2f915cf47d2" testId="909f0493-3a2b-3db1-9239-46de00bd2132" testName="test_test4" computerName="HOME-E26FE83CAE" duration="00:00:00.0065198" startTime="2012-03-12T14:24:07.2500000-05:00" endTime="2012-03-12T14:24:07.2656250-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2f63b934-75e2-4cfa-bcb2-b2f915cf47d2">
+    </UnitTestResult>
+    <UnitTestResult executionId="812e0422-a979-4f6b-8678-bdb19da36533" testId="914b2a0c-dbfa-15bf-c67e-da89c4c3ca96" testName="test_test11" computerName="HOME-E26FE83CAE" duration="00:00:00.0059021" startTime="2012-03-12T14:24:07.3125000-05:00" endTime="2012-03-12T14:24:07.3437500-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="812e0422-a979-4f6b-8678-bdb19da36533">
+    </UnitTestResult>
+    <UnitTestResult executionId="8a27b617-55c2-43fe-9f43-ed6eb76a0aff" testId="97171acb-cce5-bb87-edb1-a40947c57107" testName="test_mod3" computerName="HOME-E26FE83CAE" duration="00:00:00.0066370" startTime="2012-03-12T14:24:07.3906250-05:00" endTime="2012-03-12T14:24:07.4218750-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8a27b617-55c2-43fe-9f43-ed6eb76a0aff">
+    </UnitTestResult>
+    <UnitTestResult executionId="05e72b12-736f-48e1-8c61-dbd7da78c5c9" testId="9936c7db-6cf6-2051-5d72-b9fe5c8e1ada" testName="test_test10" computerName="HOME-E26FE83CAE" duration="00:00:00.0057368" startTime="2012-03-12T14:24:07.4687500-05:00" endTime="2012-03-12T14:24:07.5000000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="05e72b12-736f-48e1-8c61-dbd7da78c5c9">
+    </UnitTestResult>
+    <UnitTestResult executionId="17d2ccad-c802-40a0-943a-f89a606c36c1" testId="99ccbccc-8faa-d870-7334-5e51e17814a3" testName="test_test29" computerName="HOME-E26FE83CAE" duration="00:00:00.0063557" startTime="2012-03-12T14:24:07.5468750-05:00" endTime="2012-03-12T14:24:07.5625000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="17d2ccad-c802-40a0-943a-f89a606c36c1">
+    </UnitTestResult>
+    <UnitTestResult executionId="86d32e80-6286-4546-b1a2-cf3399513236" testId="a077de67-c679-41e7-f6a0-f3e9004988c8" testName="test_test27" computerName="HOME-E26FE83CAE" duration="00:00:00.0056331" startTime="2012-03-12T14:24:07.6093750-05:00" endTime="2012-03-12T14:24:07.6406250-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="86d32e80-6286-4546-b1a2-cf3399513236">
+    </UnitTestResult>
+    <UnitTestResult executionId="16cd9d62-6cfe-47bb-9691-e91a4e2f63f4" testId="a2d926c3-2110-bd3c-06f7-e7b666840b6e" testName="test_invalid_mutually_recursive_record_depth_3" computerName="HOME-E26FE83CAE" duration="00:00:00.0064698" startTime="2012-03-12T14:24:07.7031250-05:00" endTime="2012-03-12T14:24:07.7187500-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="16cd9d62-6cfe-47bb-9691-e91a4e2f63f4">
+    </UnitTestResult>
+    <UnitTestResult executionId="163ac245-557e-4506-a167-9176677d6354" testId="a384bb22-ddee-6569-96ae-a4c57e6d3916" testName="test_test8" computerName="HOME-E26FE83CAE" duration="00:00:00.0056903" startTime="2012-03-12T14:24:07.7656250-05:00" endTime="2012-03-12T14:24:07.7968750-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="163ac245-557e-4506-a167-9176677d6354">
+    </UnitTestResult>
+    <UnitTestResult executionId="22b433a0-e498-4121-b64c-68c72490e4d7" testId="a44cd249-8572-57ab-7e94-76db5bad3054" testName="test_mod5" computerName="HOME-E26FE83CAE" duration="00:00:00.0060978" startTime="2012-03-12T14:24:07.8437500-05:00" endTime="2012-03-12T14:24:07.8750000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="22b433a0-e498-4121-b64c-68c72490e4d7">
+    </UnitTestResult>
+    <UnitTestResult executionId="00a9d6fd-0d5f-40c4-8744-41329a3e1726" testId="a472785a-6aac-8d41-8d14-3df81fa7d043" testName="test_test18" computerName="HOME-E26FE83CAE" duration="00:00:00.0068572" startTime="2012-03-12T14:24:07.9218750-05:00" endTime="2012-03-12T14:24:07.9531250-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="00a9d6fd-0d5f-40c4-8744-41329a3e1726">
+    </UnitTestResult>
+    <UnitTestResult executionId="834a4c16-0406-4529-a4d9-b295f94469ae" testId="a59733da-8885-c1da-b119-165c79329a1b" testName="test_divide_between_non_valued_right" computerName="HOME-E26FE83CAE" duration="00:00:00.0062348" startTime="2012-03-12T14:24:08.0000000-05:00" endTime="2012-03-12T14:24:08.0156250-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="834a4c16-0406-4529-a4d9-b295f94469ae">
+    </UnitTestResult>
+    <UnitTestResult executionId="e930fc20-c9c3-448a-94e0-8741b0f8f9d2" testId="a7316259-a78f-4c76-fc44-43a2d7ccb76e" testName="test_mod7_1" computerName="HOME-E26FE83CAE" duration="00:00:00.0059194" startTime="2012-03-12T14:24:08.0781250-05:00" endTime="2012-03-12T14:24:08.0937500-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e930fc20-c9c3-448a-94e0-8741b0f8f9d2">
+    </UnitTestResult>
+    <UnitTestResult executionId="f89ada53-226d-4f30-bc7b-b50109d05670" testId="b072c1fb-dc11-85af-9856-d7106bde114d" testName="test_test32" computerName="HOME-E26FE83CAE" duration="00:00:00.0056360" startTime="2012-03-12T14:24:08.1406250-05:00" endTime="2012-03-12T14:24:08.1718750-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f89ada53-226d-4f30-bc7b-b50109d05670">
+    </UnitTestResult>
+    <UnitTestResult executionId="fd334463-f499-46d4-a726-b7eed8d1cef3" testId="b4c7ef8d-acd4-bb81-a04e-3b27f1d00de4" testName="test_inferred_variable_incompatibles_type" computerName="HOME-E26FE83CAE" duration="00:00:00.0060893" startTime="2012-03-12T14:24:08.2187500-05:00" endTime="2012-03-12T14:24:08.2500000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fd334463-f499-46d4-a726-b7eed8d1cef3">
+    </UnitTestResult>
+    <UnitTestResult executionId="20c33446-f190-432d-ad8c-661daa553967" testId="b59a94a6-b3eb-5bc0-dedb-53c312b3dd38" testName="test_mutually_recursive_alias" computerName="HOME-E26FE83CAE" duration="00:00:00.0057460" startTime="2012-03-12T14:24:08.2968750-05:00" endTime="2012-03-12T14:24:08.3281250-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="20c33446-f190-432d-ad8c-661daa553967">
+    </UnitTestResult>
+    <UnitTestResult executionId="ac3d36b3-6490-4bc7-b209-e8c240ae9132" testId="b62d9364-7778-3e50-d7a6-6bf0ce856a2f" testName="test_and_operator_returns_value" computerName="HOME-E26FE83CAE" duration="00:00:00.0058246" startTime="2012-03-12T14:24:08.3750000-05:00" endTime="2012-03-12T14:24:08.4062500-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ac3d36b3-6490-4bc7-b209-e8c240ae9132">
+    </UnitTestResult>
+    <UnitTestResult executionId="50aa6fc6-1123-43c7-9f38-42af0dacd32e" testId="baf2563e-3009-d447-b0e7-170ab8463071" testName="test_test31" computerName="HOME-E26FE83CAE" duration="00:00:00.0056713" startTime="2012-03-12T14:24:08.6250000-05:00" endTime="2012-03-12T14:24:08.6406250-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="50aa6fc6-1123-43c7-9f38-42af0dacd32e">
+    </UnitTestResult>
+    <UnitTestResult executionId="c309d0c7-98b8-4ad1-86a6-a17c10b3c5bf" testId="bc0e1316-dbe6-b028-ade7-bfc7507988f6" testName="test_test22" computerName="HOME-E26FE83CAE" duration="00:00:00.0058053" startTime="2012-03-12T14:24:08.6875000-05:00" endTime="2012-03-12T14:24:08.7187500-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c309d0c7-98b8-4ad1-86a6-a17c10b3c5bf">
+    </UnitTestResult>
+    <UnitTestResult executionId="5cbd9729-a792-44ff-b453-be16c416a7c2" testId="bedda814-012f-44ec-c334-f993d0f501c2" testName="test_incompatible_types_jagged_array" computerName="HOME-E26FE83CAE" duration="00:00:00.0067344" startTime="2012-03-12T14:24:08.7656250-05:00" endTime="2012-03-12T14:24:08.7968750-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5cbd9729-a792-44ff-b453-be16c416a7c2">
+    </UnitTestResult>
+    <UnitTestResult executionId="9c018c4f-2eb4-44eb-939e-e3c9fd337d31" testId="c20e51b4-12b3-e19f-44f0-68b615cb9d34" testName="test_test42" computerName="HOME-E26FE83CAE" duration="00:00:00.0059578" startTime="2012-03-12T14:24:08.8437500-05:00" endTime="2012-03-12T14:24:08.8593750-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9c018c4f-2eb4-44eb-939e-e3c9fd337d31">
+    </UnitTestResult>
+    <UnitTestResult executionId="7f8ff78e-ebd3-47e3-a38b-15522e7419c6" testId="c348fff9-c0f5-4dfb-10de-9bcc6c0e2e35" testName="test_test49" computerName="HOME-E26FE83CAE" duration="00:00:00.1142626" startTime="2012-03-12T14:24:08.9062500-05:00" endTime="2012-03-12T14:24:09.0468750-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7f8ff78e-ebd3-47e3-a38b-15522e7419c6">
+    </UnitTestResult>
+    <UnitTestResult executionId="65197f7f-9d5f-43ec-9ea7-54070849cbe1" testId="c3679b4e-0952-8b62-ff50-a38002b5bb13" testName="test_mod4" computerName="HOME-E26FE83CAE" duration="00:00:00.0054146" startTime="2012-03-12T14:24:09.0937500-05:00" endTime="2012-03-12T14:24:09.1250000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="65197f7f-9d5f-43ec-9ea7-54070849cbe1">
+    </UnitTestResult>
+    <UnitTestResult executionId="906ddef4-06c5-474d-9d37-30b16f51a74c" testId="c4fa99d9-cca8-ac70-06bb-cefbec6e204e" testName="test_test15" computerName="HOME-E26FE83CAE" duration="00:00:00.0056879" startTime="2012-03-12T14:24:09.1718750-05:00" endTime="2012-03-12T14:24:09.2031250-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="906ddef4-06c5-474d-9d37-30b16f51a74c">
+    </UnitTestResult>
+    <UnitTestResult executionId="57378e42-fb17-4cb8-8c28-42775f588c04" testId="c4fb2239-0b02-8afd-06d9-ec6f804a8a52" testName="test_test2" computerName="HOME-E26FE83CAE" duration="00:00:00.0057319" startTime="2012-03-12T14:24:09.2500000-05:00" endTime="2012-03-12T14:24:09.2656250-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="57378e42-fb17-4cb8-8c28-42775f588c04">
+    </UnitTestResult>
+    <UnitTestResult executionId="dc3d4c73-cf17-47e5-bd66-fe5e029ef77f" testId="c61736dc-d6c8-f953-d484-0d9a5b344127" testName="test_nested_unavailable_function" computerName="HOME-E26FE83CAE" duration="00:00:00.0058587" startTime="2012-03-12T14:24:09.3281250-05:00" endTime="2012-03-12T14:24:09.3437500-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dc3d4c73-cf17-47e5-bd66-fe5e029ef77f">
+    </UnitTestResult>
+    <UnitTestResult executionId="f117f50b-0421-4a30-96e1-9ee1c5450fcd" testId="c8045a47-9964-f48c-6e03-79936fb7aaa2" testName="test_test24" computerName="HOME-E26FE83CAE" duration="00:00:00.0056882" startTime="2012-03-12T14:24:09.5625000-05:00" endTime="2012-03-12T14:24:09.5937500-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f117f50b-0421-4a30-96e1-9ee1c5450fcd">
+    </UnitTestResult>
+    <UnitTestResult executionId="3f25dfeb-2c56-44d8-89c0-1a203295ee0a" testId="cab8b132-edf3-b22a-dafd-52e3f1e74a4c" testName="test_test19" computerName="HOME-E26FE83CAE" duration="00:00:00.0055200" startTime="2012-03-12T14:24:09.6406250-05:00" endTime="2012-03-12T14:24:09.6718750-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3f25dfeb-2c56-44d8-89c0-1a203295ee0a">
+    </UnitTestResult>
+    <UnitTestResult executionId="a875c85b-4e23-407f-9952-73c2d2d8bc05" testId="cda3dbd2-47ba-daee-07dc-a896644e4d82" testName="test_test45" computerName="HOME-E26FE83CAE" duration="00:00:00.0057828" startTime="2012-03-12T14:24:09.7187500-05:00" endTime="2012-03-12T14:24:09.7343750-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a875c85b-4e23-407f-9952-73c2d2d8bc05">
+    </UnitTestResult>
+    <UnitTestResult executionId="594944e4-6d84-4c2b-8cbb-b2ac05c67c2c" testId="ce2a8c2f-bbc2-eed5-1248-002e2907786b" testName="test_break_out_of_for" computerName="HOME-E26FE83CAE" duration="00:00:00.0057149" startTime="2012-03-12T14:24:09.7812500-05:00" endTime="2012-03-12T14:24:09.8125000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="594944e4-6d84-4c2b-8cbb-b2ac05c67c2c">
+    </UnitTestResult>
+    <UnitTestResult executionId="8ff24418-578a-4a70-824a-86f262965428" testId="d050111e-1afa-c332-bab6-dc16fcf18a86" testName="test_test48" computerName="HOME-E26FE83CAE" duration="00:00:00.0057365" startTime="2012-03-12T14:24:09.8593750-05:00" endTime="2012-03-12T14:24:09.8906250-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8ff24418-578a-4a70-824a-86f262965428">
+    </UnitTestResult>
+    <UnitTestResult executionId="adaafcd3-2039-4b40-bca6-5eb5cc051202" testId="d06f6746-ead1-f925-4604-460409e84f79" testName="test_test7" computerName="HOME-E26FE83CAE" duration="00:00:00.0055867" startTime="2012-03-12T14:24:09.9375000-05:00" endTime="2012-03-12T14:24:09.9687500-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="adaafcd3-2039-4b40-bca6-5eb5cc051202">
+    </UnitTestResult>
+    <UnitTestResult executionId="45ce6495-2d0e-4d55-ad85-34cc1062f2d6" testId="d6875146-3a82-65ba-0dc8-a42d822217f6" testName="test_test9" computerName="HOME-E26FE83CAE" duration="00:00:00.0056550" startTime="2012-03-12T14:24:10.0156250-05:00" endTime="2012-03-12T14:24:10.0312500-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="45ce6495-2d0e-4d55-ad85-34cc1062f2d6">
+    </UnitTestResult>
+    <UnitTestResult executionId="f0874827-5303-45c1-bbb2-bfb2de5dfc66" testId="d690abc7-a328-cd83-8fdc-b127cf098887" testName="test_test25" computerName="HOME-E26FE83CAE" duration="00:00:00.0057081" startTime="2012-03-12T14:24:10.0937500-05:00" endTime="2012-03-12T14:24:10.1250000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f0874827-5303-45c1-bbb2-bfb2de5dfc66">
+    </UnitTestResult>
+    <UnitTestResult executionId="23c982f1-47a8-4c1f-b49f-cca310dd7c1d" testId="d93fbe60-89ed-bf54-6dfb-bec94ee26025" testName="test_test35" computerName="HOME-E26FE83CAE" duration="00:00:00.0054271" startTime="2012-03-12T14:24:10.1718750-05:00" endTime="2012-03-12T14:24:10.1875000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="23c982f1-47a8-4c1f-b49f-cca310dd7c1d">
+    </UnitTestResult>
+    <UnitTestResult executionId="e52572d6-801c-40e6-9e79-8fd6a6c397ab" testId="da3e1bea-fd68-3dc0-d517-eb40039703ee" testName="test_test17" computerName="HOME-E26FE83CAE" duration="00:00:00.0058438" startTime="2012-03-12T14:24:10.4062500-05:00" endTime="2012-03-12T14:24:10.4375000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e52572d6-801c-40e6-9e79-8fd6a6c397ab">
+    </UnitTestResult>
+    <UnitTestResult executionId="b2116e45-2393-4fd8-bb54-75e81f71ed4c" testId="dc1b746a-01eb-32a1-dd9f-13724fc026ff" testName="test_test13" computerName="HOME-E26FE83CAE" duration="00:00:00.0059016" startTime="2012-03-12T14:24:10.5000000-05:00" endTime="2012-03-12T14:24:10.5156250-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b2116e45-2393-4fd8-bb54-75e81f71ed4c">
+    </UnitTestResult>
+    <UnitTestResult executionId="85c8a23c-6f8f-442a-bf47-ff7bad642c72" testId="e202bc60-0634-baa5-9fb7-e483d26688e3" testName="test_test43" computerName="HOME-E26FE83CAE" duration="00:00:00.0061097" startTime="2012-03-12T14:24:10.5625000-05:00" endTime="2012-03-12T14:24:10.5937500-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="85c8a23c-6f8f-442a-bf47-ff7bad642c72">
+    </UnitTestResult>
+    <UnitTestResult executionId="7650e7dd-126a-4c58-8ba8-715c9c9a6ec8" testId="e23ffe73-c0b4-23de-3266-456dece737db" testName="test_test37" computerName="HOME-E26FE83CAE" duration="00:00:00.0063017" startTime="2012-03-12T14:24:10.6406250-05:00" endTime="2012-03-12T14:24:10.6718750-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7650e7dd-126a-4c58-8ba8-715c9c9a6ec8">
+    </UnitTestResult>
+    <UnitTestResult executionId="975e26a1-f002-41e1-9201-7a4950da5c99" testId="e5ba5b84-693c-c274-9024-67714abfd289" testName="test_recursive_array" computerName="HOME-E26FE83CAE" duration="00:00:00.0071218" startTime="2012-03-12T14:24:10.7343750-05:00" endTime="2012-03-12T14:24:10.7656250-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="975e26a1-f002-41e1-9201-7a4950da5c99">
+    </UnitTestResult>
+    <UnitTestResult executionId="698e20c6-99e7-4a98-be2e-dace96cca89c" testId="e6694f75-d598-6ffe-9c8e-bbfaecee7755" testName="test_queens" computerName="HOME-E26FE83CAE" duration="00:00:00.0064710" startTime="2012-03-12T14:24:10.8281250-05:00" endTime="2012-03-12T14:24:10.8593750-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="698e20c6-99e7-4a98-be2e-dace96cca89c">
+    </UnitTestResult>
+    <UnitTestResult executionId="eb75d538-68b2-4764-b9ae-5f573e751a54" testId="e8d2f115-d73c-2867-cfd5-f324a2ef1c4b" testName="test_array_init" computerName="HOME-E26FE83CAE" duration="00:00:00.0068717" startTime="2012-03-12T14:24:10.9062500-05:00" endTime="2012-03-12T14:24:10.9687500-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="eb75d538-68b2-4764-b9ae-5f573e751a54">
+    </UnitTestResult>
+    <UnitTestResult executionId="9930a9da-2fb0-40dc-98c8-79c0c810828f" testId="ecf43549-1da5-5f9d-4f70-8ce66cfb75f9" testName="test_undefined_type_for_alias" computerName="HOME-E26FE83CAE" duration="00:00:00.0058141" startTime="2012-03-12T14:24:11.1875000-05:00" endTime="2012-03-12T14:24:11.2187500-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9930a9da-2fb0-40dc-98c8-79c0c810828f">
+    </UnitTestResult>
+    <UnitTestResult executionId="9cc03e4e-0af5-464b-a18f-19b70af46411" testId="eec5b161-be3c-10b7-c8a8-069c5234b535" testName="test_test21" computerName="HOME-E26FE83CAE" duration="00:00:00.0059205" startTime="2012-03-12T14:24:11.2656250-05:00" endTime="2012-03-12T14:24:11.2968750-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9cc03e4e-0af5-464b-a18f-19b70af46411">
+    </UnitTestResult>
+    <UnitTestResult executionId="805db95e-85e1-4b34-b478-c0a6e93cca0a" testId="f16497eb-6a01-ee64-493f-fa445e31a0a3" testName="test_test39" computerName="HOME-E26FE83CAE" duration="00:00:00.0057961" startTime="2012-03-12T14:24:11.3437500-05:00" endTime="2012-03-12T14:24:11.3593750-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="805db95e-85e1-4b34-b478-c0a6e93cca0a">
+    </UnitTestResult>
+    <UnitTestResult executionId="ff6aaa90-6700-4d8e-99d1-569b5515db73" testId="f178d479-04b2-1f51-5b83-340d9c464883" testName="test_test33" computerName="HOME-E26FE83CAE" duration="00:00:00.0056987" startTime="2012-03-12T14:24:11.4062500-05:00" endTime="2012-03-12T14:24:11.4375000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ff6aaa90-6700-4d8e-99d1-569b5515db73">
+    </UnitTestResult>
+    <UnitTestResult executionId="f8a0a973-efa5-461d-853d-2105d086a0f3" testId="f1ff68f4-2ce6-1ac3-921c-079b2b95706c" testName="test_differents_types_array_assign" computerName="HOME-E26FE83CAE" duration="00:00:00.0060937" startTime="2012-03-12T14:24:11.4843750-05:00" endTime="2012-03-12T14:24:11.5312500-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f8a0a973-efa5-461d-853d-2105d086a0f3">
+    </UnitTestResult>
+    <UnitTestResult executionId="716d26e6-ee05-4f8d-b12d-afd069d9610c" testId="f4efcf97-2817-134e-d4cd-02e0e8ed7f47" testName="test_invalid_mutually_recursive_function_depth_4" computerName="HOME-E26FE83CAE" duration="00:00:00.0065022" startTime="2012-03-12T14:24:11.5625000-05:00" endTime="2012-03-12T14:24:11.5937500-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="716d26e6-ee05-4f8d-b12d-afd069d9610c">
+    </UnitTestResult>
+    <UnitTestResult executionId="bc6af930-66fc-432e-87e2-cdad3c07b57c" testId="f671f60d-5960-0a4e-25da-4be80fa480eb" testName="test_str" computerName="HOME-E26FE83CAE" duration="00:00:00.0057165" startTime="2012-03-12T14:24:11.6406250-05:00" endTime="2012-03-12T14:24:11.6718750-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bc6af930-66fc-432e-87e2-cdad3c07b57c">
+    </UnitTestResult>
+    <UnitTestResult executionId="1ceedb58-d60c-4f20-b226-64e6db9b21c5" testId="f72187fc-b3e0-b7a6-6724-df81d1bfb604" testName="test_mod7_2" computerName="HOME-E26FE83CAE" duration="00:00:00.0059843" startTime="2012-03-12T14:24:11.7187500-05:00" endTime="2012-03-12T14:24:11.7500000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1ceedb58-d60c-4f20-b226-64e6db9b21c5">
+    </UnitTestResult>
+    <UnitTestResult executionId="e8d1f675-8330-4c77-a4ab-ddd0853eab95" testId="f7361c7c-3b0f-6086-f159-11b4844d843d" testName="test_record_literal_invalid_types" computerName="HOME-E26FE83CAE" duration="00:00:00.0059079" startTime="2012-03-12T14:24:11.7968750-05:00" endTime="2012-03-12T14:24:11.8281250-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e8d1f675-8330-4c77-a4ab-ddd0853eab95">
+    </UnitTestResult>
+    <UnitTestResult executionId="1370373e-049a-4622-b983-edab5bdf542d" testId="f8f7e3fc-a32f-4b7e-3884-a77c284c6334" testName="test_test30" computerName="HOME-E26FE83CAE" duration="00:00:00.0483361" startTime="2012-03-12T14:24:11.8750000-05:00" endTime="2012-03-12T14:24:11.9531250-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1370373e-049a-4622-b983-edab5bdf542d">
+      <Output>
+        <StdOut>Object reference not set to an instance of an object.</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c208f848-2374-4d98-a2e6-73942bffc9fc" testId="f96446f0-229a-33bf-fd57-40890b9bd378" testName="test_test36" computerName="HOME-E26FE83CAE" duration="00:00:00.0753538" startTime="2012-03-12T14:24:12.0000000-05:00" endTime="2012-03-12T14:24:12.0937500-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c208f848-2374-4d98-a2e6-73942bffc9fc">
+      <Output>
+        <StdOut>Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="7ecbc741-feec-43db-8472-c73ab78c826a" testId="fb90f7ed-7430-80a6-0f96-1278e7153aad" testName="test_test16" computerName="HOME-E26FE83CAE" duration="00:00:00.0224664" startTime="2012-03-12T14:24:12.3281250-05:00" endTime="2012-03-12T14:24:12.3750000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7ecbc741-feec-43db-8472-c73ab78c826a">
+    </UnitTestResult>
+    <UnitTestResult executionId="3041845a-2ef0-42a1-a0bb-2947f5f4bb11" testId="ff4c30d4-0e18-8aac-65dc-3010d8dc6819" testName="test_test46" computerName="HOME-E26FE83CAE" duration="00:00:00.0063142" startTime="2012-03-12T14:24:12.4531250-05:00" endTime="2012-03-12T14:24:12.5156250-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3041845a-2ef0-42a1-a0bb-2947f5f4bb11">
+    </UnitTestResult>
+  </Results>
+</TestRun>

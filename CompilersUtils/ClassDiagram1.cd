@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CompilersUtils.ProgramNode" Collapsed="true">
+    <Position X="22.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAgAAAAAAAAAEAAA=</HashCode>
+      <FileName>AST - Hierarchy\ProgramNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.InstructionNode" Collapsed="true">
+    <Position X="8.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AST - Hierarchy\InstructionNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.TigerNode" Collapsed="true">
+    <Position X="22.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAEAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>AST - Hierarchy\TigerNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.DeclarationNode" Collapsed="true">
+    <Position X="32" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AST - Hierarchy\DeclarationNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.StringNode" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAgAACAAAA=</HashCode>
+      <FileName>AST - Hierarchy\StringNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.OperatorNode" Collapsed="true">
+    <Position X="3.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AST - Hierarchy\OperatorNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.NilNode" Collapsed="true">
+    <Position X="2" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>AST - Hierarchy\NilNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.LValueNode" Collapsed="true">
+    <Position X="8" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AST - Hierarchy\LValueNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.LetNode" Collapsed="true">
+    <Position X="6.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAwAAIAAAAAAAAAAAAAAEAAAAAAAAAAACBAAA=</HashCode>
+      <FileName>AST - Hierarchy\LetNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.IntNode" Collapsed="true">
+    <Position X="5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAgAACAAAA=</HashCode>
+      <FileName>AST - Hierarchy\IntNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.AssingmentNode" Collapsed="true">
+    <Position X="9.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAEAAAAAAAAAAAKAAAA=</HashCode>
+      <FileName>AST - Hierarchy\AssingmentNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.ControlNode" Collapsed="true">
+    <Position X="20.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AST - Hierarchy\ControlNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.BinaryOpNode" Collapsed="true">
+    <Position X="4.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>AST - Hierarchy\BinaryOpNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.UnaryOpNode" Collapsed="true">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AST - Hierarchy\UnaryOpNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.DivNode" Collapsed="true">
+    <Position X="1.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>AST - Hierarchy\DivNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.LogicOpNode" Collapsed="true">
+    <Position X="1.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AST - Hierarchy\LogicOpNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.ArithmeticOpNode" Collapsed="true">
+    <Position X="4.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AST - Hierarchy\ArithmeticOpNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.MultNode" Collapsed="true">
+    <Position X="3.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>AST - Hierarchy\MultNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.PlusNode" Collapsed="true">
+    <Position X="6.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>AST - Hierarchy\PlusNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.MinusNode" Collapsed="true">
+    <Position X="4.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>AST - Hierarchy\MinusNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.MinusUnaryNode" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAACAAAAACAAAA=</HashCode>
+      <FileName>AST - Hierarchy\MinusUnaryNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.AndNode" Collapsed="true">
+    <Position X="2" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>AST - Hierarchy\AndNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.OrNode" Collapsed="true">
+    <Position X="0.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>AST - Hierarchy\OrNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.RelationalOpNode" Collapsed="true">
+    <Position X="8" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AST - Hierarchy\RelationalOpNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.LessEqualThanNode" Collapsed="true">
+    <Position X="7" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>AST - Hierarchy\LessEqualThanNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.LessThanNode" Collapsed="true">
+    <Position X="8.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>AST - Hierarchy\LessThanNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.GreaterEqualThanNode" Collapsed="true">
+    <Position X="10" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>AST - Hierarchy\GreaterEqualThanNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.GreaterThanNode" Collapsed="true">
+    <Position X="5.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>AST - Hierarchy\GreaterThanNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.EqualNode" Collapsed="true">
+    <Position X="12.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>AST - Hierarchy\EqualNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.DistinctNode" Collapsed="true">
+    <Position X="14.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>AST - Hierarchy\DistinctNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.ElemArrayNode" Collapsed="true">
+    <Position X="8.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAACAEAAACAAAA=</HashCode>
+      <FileName>AST - Hierarchy\ElemArrayNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.FieldRecordNode" Collapsed="true">
+    <Position X="6.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAEAAAAACAAAAACAgAA=</HashCode>
+      <FileName>AST - Hierarchy\FieldRecordNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.IfThenElseNode" Collapsed="true">
+    <Position X="21.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAABAAEAAAAAAAAAAECEAAA=</HashCode>
+      <FileName>AST - Hierarchy\IfThenElseNode.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CompilersUtils.IfThenNode" Collapsed="true">
+    <Position X="23.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAEAAAAAAAAAAECEAAA=</HashCode>
+      <FileName>AST - Hierarchy\IfThenNode.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CompilersUtils.BreakNode" Collapsed="true">
+    <Position X="18.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAEAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>AST - Hierarchy\BreakNode.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CompilersUtils.WhileNode" Collapsed="true">
+    <Position X="20.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAICAAAA=</HashCode>
+      <FileName>AST - Hierarchy\WhileNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.ForNode" Collapsed="true">
+    <Position X="17.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAEAAACAAAAAAICAgAA=</HashCode>
+      <FileName>AST - Hierarchy\ForNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.TypeDeclNode" Collapsed="true">
+    <Position X="35.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AST - Hierarchy\TypeDeclNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.VariableDeclNode" Collapsed="true">
+    <Position X="29" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAEAAAAACAAAAACAEAA=</HashCode>
+      <FileName>AST - Hierarchy\VariableDeclNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.FunctionDeclNode" Collapsed="true">
+    <Position X="32" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAgAAAAAAAAAEAAAAACIAAAALAAAA=</HashCode>
+      <FileName>AST - Hierarchy\FunctionDeclNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.TypeRecordNode" Collapsed="true">
+    <Position X="35.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAEAAAAAAIAAAACAAAA=</HashCode>
+      <FileName>AST - Hierarchy\TypeRecordNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.TypeAliasNode" Collapsed="true">
+    <Position X="34" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAQAAAACAAAA=</HashCode>
+      <FileName>AST - Hierarchy\TypeAliasNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.TypeArrayNode" Collapsed="true">
+    <Position X="37" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAQAAAACAAAA=</HashCode>
+      <FileName>AST - Hierarchy\TypeArrayNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.EqualityNode" Collapsed="true">
+    <Position X="13.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AST - Hierarchy\EqualityNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.ArrayNode" Collapsed="true">
+    <Position X="11" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAARAAAEAAAAAAAAgAACAAAA=</HashCode>
+      <FileName>AST - Hierarchy\ArrayNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.RecordNode" Collapsed="true">
+    <Position X="12.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAEAAAAAAAAAAACBAAA=</HashCode>
+      <FileName>AST - Hierarchy\RecordNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.VariableNode" Collapsed="true">
+    <Position X="9.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAgAACAAAA=</HashCode>
+      <FileName>AST - Hierarchy\VariableNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.CallFunctionNode" Collapsed="true">
+    <Position X="14" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAKAAAA=</HashCode>
+      <FileName>AST - Hierarchy\CallFunctionNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.DeclarationBlockNode" Collapsed="true">
+    <Position X="25.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AST - Hierarchy\DeclarationBlockNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.FunctionsBlockNode" Collapsed="true">
+    <Position X="24.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAEAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>AST - Hierarchy\FunctionsBlockNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.TypesBlockNode" Collapsed="true">
+    <Position X="26.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>AST - Hierarchy\TypesBlockNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.ExprSeqNode" Collapsed="true">
+    <Position X="15.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAACBAAA=</HashCode>
+      <FileName>AST - Hierarchy\ExprSeqNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompilersUtils.ListLValueNode" Collapsed="true">
+    <Position X="17" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAEAAAAAAAAAAAAEAAAAAAQAAAACAAAA=</HashCode>
+      <FileName>AST - Hierarchy\ListLValueNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

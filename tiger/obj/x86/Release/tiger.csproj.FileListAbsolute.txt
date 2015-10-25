@@ -1,0 +1,2 @@
+D:\lastversion\Compiler 12-3-2012\tiger\obj\x86\Release\ResolveAssemblyReference.cache
+D:\lastversion\Compiler 12-3-2012\tiger\obj\x86\Release\tiger.pdb

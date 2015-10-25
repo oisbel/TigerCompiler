@@ -1,0 +1,140 @@
+D:\Universidad\4to\Compiler\CompilersUtils\bin\Debug\CompilersUtils.dll
+D:\Universidad\4to\Compiler\CompilersUtils\bin\Debug\CompilersUtils.pdb
+D:\Universidad\4to\Compiler\CompilersUtils\obj\Debug\ResolveAssemblyReference.cache
+D:\Universidad\4to\Compiler\CompilersUtils\obj\Debug\CompilersUtils.dll
+D:\Universidad\4to\Compiler\CompilersUtils\obj\Debug\CompilersUtils.pdb
+D:\Universidad\4to\Compilador\Compiler\CompilersUtils\obj\Debug\ResolveAssemblyReference.cache
+D:\Universidad\4to\Compilador\Compiler\CompilersUtils\obj\Debug\CompilersUtils.dll
+D:\Universidad\4to\Compilador\Compiler\CompilersUtils\obj\Debug\CompilersUtils.pdb
+D:\Universidad\4to\Compilador\Compiler\CompilersUtils\bin\Debug\CompilersUtils.dll
+D:\Universidad\4to\Compilador\Compiler\CompilersUtils\bin\Debug\CompilersUtils.pdb
+D:\KARLA\Compiler\CompilersUtils\bin\Debug\CompilersUtils.dll
+D:\KARLA\Compiler\CompilersUtils\bin\Debug\CompilersUtils.pdb
+D:\KARLA\Compiler\CompilersUtils\obj\Debug\ResolveAssemblyReference.cache
+D:\KARLA\Compiler\CompilersUtils\obj\Debug\CompilersUtils.dll
+D:\KARLA\Compiler\CompilersUtils\obj\Debug\CompilersUtils.pdb
+C:\Users\Danaice\Desktop\My Compiler\CompilersUtils\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Karla\Desktop\Compiler 25-2-2012\CompilersUtils\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Karla\Desktop\Compiler 25-2-2012\CompilersUtils\bin\Debug\CompilersUtils.dll
+C:\Users\Karla\Desktop\Compiler 25-2-2012\CompilersUtils\bin\Debug\CompilersUtils.pdb
+C:\Users\Karla\Desktop\Compiler 25-2-2012\CompilersUtils\obj\Debug\CompilersUtils.dll
+C:\Users\Karla\Desktop\Compiler 25-2-2012\CompilersUtils\obj\Debug\CompilersUtils.pdb
+C:\Users\Danaice\Desktop\Compiler 25-2-2012\CompilersUtils\bin\Debug\CompilersUtils.dll
+C:\Users\Danaice\Desktop\Compiler 25-2-2012\CompilersUtils\bin\Debug\CompilersUtils.pdb
+C:\Users\Danaice\Desktop\Compiler 25-2-2012\CompilersUtils\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Danaice\Desktop\Compiler 25-2-2012\CompilersUtils\obj\Debug\CompilersUtils.dll
+C:\Users\Danaice\Desktop\Compiler 25-2-2012\CompilersUtils\obj\Debug\CompilersUtils.pdb
+C:\Users\Karla\Desktop\Compiler 27-2-2012\CompilersUtils\bin\Debug\CompilersUtils.dll
+C:\Users\Karla\Desktop\Compiler 27-2-2012\CompilersUtils\bin\Debug\CompilersUtils.pdb
+C:\Users\Karla\Desktop\Compiler 27-2-2012\CompilersUtils\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Karla\Desktop\Compiler 27-2-2012\CompilersUtils\obj\Debug\CompilersUtils.dll
+C:\Users\Karla\Desktop\Compiler 27-2-2012\CompilersUtils\obj\Debug\CompilersUtils.pdb
+C:\Users\Karla\Desktop\Compiler 28-2-2012\CompilersUtils\bin\Debug\CompilersUtils.dll
+C:\Users\Karla\Desktop\Compiler 28-2-2012\CompilersUtils\bin\Debug\CompilersUtils.pdb
+C:\Users\Karla\Desktop\Compiler 28-2-2012\CompilersUtils\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Karla\Desktop\Compiler 28-2-2012\CompilersUtils\obj\Debug\CompilersUtils.dll
+C:\Users\Karla\Desktop\Compiler 28-2-2012\CompilersUtils\obj\Debug\CompilersUtils.pdb
+C:\Users\simp\Documents\Visual Studio 2010\Projects\Compiler 28-2-2012\CompilersUtils\bin\Debug\CompilersUtils.dll
+C:\Users\simp\Documents\Visual Studio 2010\Projects\Compiler 28-2-2012\CompilersUtils\bin\Debug\CompilersUtils.pdb
+C:\Users\simp\Documents\Visual Studio 2010\Projects\Compiler 28-2-2012\CompilersUtils\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\simp\Documents\Visual Studio 2010\Projects\Compiler 28-2-2012\CompilersUtils\obj\Debug\CompilersUtils.dll
+C:\Users\simp\Documents\Visual Studio 2010\Projects\Compiler 28-2-2012\CompilersUtils\obj\Debug\CompilersUtils.pdb
+C:\Users\Karla\Desktop\Compiler 4-3-2012\CompilersUtils\bin\Debug\CompilersUtils.dll
+C:\Users\Karla\Desktop\Compiler 4-3-2012\CompilersUtils\bin\Debug\CompilersUtils.pdb
+C:\Users\Karla\Desktop\Compiler 4-3-2012\CompilersUtils\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Karla\Desktop\Compiler 4-3-2012\CompilersUtils\obj\Debug\CompilersUtils.dll
+C:\Users\Karla\Desktop\Compiler 4-3-2012\CompilersUtils\obj\Debug\CompilersUtils.pdb
+C:\Users\simp\Desktop\Compiler 7-3-2012\CompilersUtils\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\simp\Desktop\Compiler 7-3-2012\CompilersUtils\obj\Debug\CompilersUtils.dll
+C:\Users\simp\Desktop\Compiler 7-3-2012\CompilersUtils\bin\Debug\CompilersUtils.dll
+C:\Users\simp\Desktop\Compiler 7-3-2012\CompilersUtils\bin\Debug\CompilersUtils.pdb
+C:\Users\simp\Desktop\Compiler 7-3-2012\CompilersUtils\obj\Debug\CompilersUtils.pdb
+C:\Users\Karla\Desktop\Compiler 8-3-2012\CompilersUtils\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Karla\Desktop\Compiler 8-3-2012\CompilersUtils\bin\Debug\CompilersUtils.dll
+C:\Users\Karla\Desktop\Compiler 8-3-2012\CompilersUtils\bin\Debug\CompilersUtils.pdb
+C:\Users\Karla\Desktop\Compiler 8-3-2012\CompilersUtils\obj\Debug\CompilersUtils.dll
+C:\Users\Karla\Desktop\Compiler 8-3-2012\CompilersUtils\obj\Debug\CompilersUtils.pdb
+F:\last version\Compiler 8-3-2012\CompilersUtils\bin\Debug\CompilersUtils.dll
+F:\last version\Compiler 8-3-2012\CompilersUtils\bin\Debug\CompilersUtils.pdb
+F:\last version\Compiler 8-3-2012\CompilersUtils\obj\Debug\ResolveAssemblyReference.cache
+F:\last version\Compiler 8-3-2012\CompilersUtils\obj\Debug\CompilersUtils.dll
+F:\last version\Compiler 8-3-2012\CompilersUtils\obj\Debug\CompilersUtils.pdb
+C:\Users\simp\Documents\Visual Studio 2010\Projects\Compiler 8-3-2012\CompilersUtils\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\simp\Documents\Visual Studio 2010\Projects\Compiler 8-3-2012\CompilersUtils\bin\Debug\CompilersUtils.dll
+C:\Users\simp\Documents\Visual Studio 2010\Projects\Compiler 8-3-2012\CompilersUtils\bin\Debug\CompilersUtils.pdb
+C:\Users\simp\Documents\Visual Studio 2010\Projects\Compiler 8-3-2012\CompilersUtils\obj\Debug\CompilersUtils.dll
+C:\Users\simp\Documents\Visual Studio 2010\Projects\Compiler 8-3-2012\CompilersUtils\obj\Debug\CompilersUtils.pdb
+C:\Users\Danaice\Desktop\last version\Compiler 8-3-2012\CompilersUtils\bin\Debug\CompilersUtils.dll
+C:\Users\Danaice\Desktop\last version\Compiler 8-3-2012\CompilersUtils\bin\Debug\CompilersUtils.pdb
+C:\Users\Danaice\Desktop\last version\Compiler 8-3-2012\CompilersUtils\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Danaice\Desktop\last version\Compiler 8-3-2012\CompilersUtils\obj\Debug\CompilersUtils.dll
+C:\Users\Danaice\Desktop\last version\Compiler 8-3-2012\CompilersUtils\obj\Debug\CompilersUtils.pdb
+C:\Users\simp\Desktop\last version\Compiler 8-3-2012\CompilersUtils\bin\Debug\CompilersUtils.dll
+C:\Users\simp\Desktop\last version\Compiler 8-3-2012\CompilersUtils\bin\Debug\CompilersUtils.pdb
+C:\Users\simp\Desktop\last version\Compiler 8-3-2012\CompilersUtils\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\simp\Desktop\last version\Compiler 8-3-2012\CompilersUtils\obj\Debug\CompilersUtils.dll
+C:\Users\simp\Desktop\last version\Compiler 8-3-2012\CompilersUtils\obj\Debug\CompilersUtils.pdb
+C:\Users\simp\Desktop\lastversion\Compiler 8-3-2012\CompilersUtils\bin\Debug\CompilersUtils.dll
+C:\Users\simp\Desktop\lastversion\Compiler 8-3-2012\CompilersUtils\bin\Debug\CompilersUtils.pdb
+C:\Users\simp\Desktop\lastversion\Compiler 8-3-2012\CompilersUtils\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\simp\Desktop\lastversion\Compiler 8-3-2012\CompilersUtils\obj\Debug\CompilersUtils.dll
+C:\Users\simp\Desktop\lastversion\Compiler 8-3-2012\CompilersUtils\obj\Debug\CompilersUtils.pdb
+G:\lastversion\Compiler 8-3-2012\CompilersUtils\bin\Debug\CompilersUtils.dll
+G:\lastversion\Compiler 8-3-2012\CompilersUtils\bin\Debug\CompilersUtils.pdb
+G:\lastversion\Compiler 8-3-2012\CompilersUtils\obj\Debug\ResolveAssemblyReference.cache
+G:\lastversion\Compiler 8-3-2012\CompilersUtils\obj\Debug\CompilersUtils.dll
+G:\lastversion\Compiler 8-3-2012\CompilersUtils\obj\Debug\CompilersUtils.pdb
+C:\Users\Karla\Desktop\lastversion\Compiler 8-3-2012\CompilersUtils\bin\Debug\CompilersUtils.dll
+C:\Users\Karla\Desktop\lastversion\Compiler 8-3-2012\CompilersUtils\bin\Debug\CompilersUtils.pdb
+C:\Users\Karla\Desktop\lastversion\Compiler 8-3-2012\CompilersUtils\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Karla\Desktop\lastversion\Compiler 8-3-2012\CompilersUtils\obj\Debug\CompilersUtils.dll
+C:\Users\Karla\Desktop\lastversion\Compiler 8-3-2012\CompilersUtils\obj\Debug\CompilersUtils.pdb
+E:\lastversion\Compiler 8-3-2012\CompilersUtils\bin\Debug\CompilersUtils.dll
+E:\lastversion\Compiler 8-3-2012\CompilersUtils\bin\Debug\CompilersUtils.pdb
+E:\lastversion\Compiler 8-3-2012\CompilersUtils\obj\Debug\ResolveAssemblyReference.cache
+E:\lastversion\Compiler 8-3-2012\CompilersUtils\obj\Debug\CompilersUtils.dll
+E:\lastversion\Compiler 8-3-2012\CompilersUtils\obj\Debug\CompilersUtils.pdb
+H:\lastversion\Compiler 8-3-2012\CompilersUtils\bin\Debug\CompilersUtils.dll
+H:\lastversion\Compiler 8-3-2012\CompilersUtils\bin\Debug\CompilersUtils.pdb
+H:\lastversion\Compiler 8-3-2012\CompilersUtils\obj\Debug\ResolveAssemblyReference.cache
+H:\lastversion\Compiler 8-3-2012\CompilersUtils\obj\Debug\CompilersUtils.dll
+H:\lastversion\Compiler 8-3-2012\CompilersUtils\obj\Debug\CompilersUtils.pdb
+F:\lastversion\Compiler 8-3-2012\CompilersUtils\obj\Debug\ResolveAssemblyReference.cache
+F:\lastversion\Compiler 8-3-2012\CompilersUtils\bin\Debug\CompilersUtils.dll
+F:\lastversion\Compiler 8-3-2012\CompilersUtils\bin\Debug\CompilersUtils.pdb
+F:\lastversion\Compiler 8-3-2012\CompilersUtils\obj\Debug\CompilersUtils.dll
+F:\lastversion\Compiler 8-3-2012\CompilersUtils\obj\Debug\CompilersUtils.pdb
+H:\lastversion\Compiler 12-3-2012\CompilersUtils\obj\Debug\ResolveAssemblyReference.cache
+H:\lastversion\Compiler 12-3-2012\CompilersUtils\obj\Debug\CompilersUtils.pdb
+D:\lastversion\Compiler 12-3-2012\CompilersUtils\obj\Debug\ResolveAssemblyReference.cache
+D:\lastversion\Compiler 12-3-2012\CompilersUtils\obj\Debug\CompilersUtils.pdb
+D:\lastversion\Compiler 12-3-2012\CompilersUtils\bin\Debug\CompilersUtils.dll
+D:\lastversion\Compiler 12-3-2012\CompilersUtils\bin\Debug\CompilersUtils.pdb
+D:\lastversion\Compiler 12-3-2012\CompilersUtils\obj\Debug\CompilersUtils.dll
+C:\Users\simp\Desktop\lastversion\Compiler 12-3-2012\CompilersUtils\bin\Debug\CompilersUtils.dll
+C:\Users\simp\Desktop\lastversion\Compiler 12-3-2012\CompilersUtils\bin\Debug\CompilersUtils.pdb
+C:\Users\simp\Desktop\lastversion\Compiler 12-3-2012\CompilersUtils\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\simp\Desktop\lastversion\Compiler 12-3-2012\CompilersUtils\obj\Debug\CompilersUtils.dll
+C:\Users\simp\Desktop\lastversion\Compiler 12-3-2012\CompilersUtils\obj\Debug\CompilersUtils.pdb
+C:\Users\simp\Desktop\lastversion\Compiler\CompilersUtils\bin\Debug\CompilersUtils.dll
+C:\Users\simp\Desktop\lastversion\Compiler\CompilersUtils\bin\Debug\CompilersUtils.pdb
+C:\Users\simp\Desktop\lastversion\Compiler\CompilersUtils\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\simp\Desktop\lastversion\Compiler\CompilersUtils\obj\Debug\CompilersUtils.dll
+C:\Users\simp\Desktop\lastversion\Compiler\CompilersUtils\obj\Debug\CompilersUtils.pdb
+G:\Compiler\CompilersUtils\bin\Debug\CompilersUtils.dll
+G:\Compiler\CompilersUtils\bin\Debug\CompilersUtils.pdb
+G:\Compiler\CompilersUtils\obj\Debug\ResolveAssemblyReference.cache
+G:\Compiler\CompilersUtils\obj\Debug\CompilersUtils.dll
+G:\Compiler\CompilersUtils\obj\Debug\CompilersUtils.pdb
+G:\Tiger-Danaice Lopez(413)-OisbelSimpson(413)-Karla Iturriza(413)\CODIGO\Compiler\CompilersUtils\bin\Debug\CompilersUtils.dll
+G:\Tiger-Danaice Lopez(413)-OisbelSimpson(413)-Karla Iturriza(413)\CODIGO\Compiler\CompilersUtils\bin\Debug\CompilersUtils.pdb
+G:\Tiger-Danaice Lopez(413)-OisbelSimpson(413)-Karla Iturriza(413)\CODIGO\Compiler\CompilersUtils\bin\Debug\antlr.runtime.dll
+G:\Tiger-Danaice Lopez(413)-OisbelSimpson(413)-Karla Iturriza(413)\CODIGO\Compiler\CompilersUtils\bin\Debug\Antlr3.Runtime.dll
+G:\Tiger-Danaice Lopez(413)-OisbelSimpson(413)-Karla Iturriza(413)\CODIGO\Compiler\CompilersUtils\obj\Debug\ResolveAssemblyReference.cache
+G:\Tiger-Danaice Lopez(413)-OisbelSimpson(413)-Karla Iturriza(413)\CODIGO\Compiler\CompilersUtils\obj\Debug\CompilersUtils.dll
+G:\Tiger-Danaice Lopez(413)-OisbelSimpson(413)-Karla Iturriza(413)\CODIGO\Compiler\CompilersUtils\obj\Debug\CompilersUtils.pdb
+C:\Users\simp\Documents\Visual Studio 2010\Projects\Compiler\CompilersUtils\bin\Debug\CompilersUtils.dll
+C:\Users\simp\Documents\Visual Studio 2010\Projects\Compiler\CompilersUtils\bin\Debug\CompilersUtils.pdb
+C:\Users\simp\Documents\Visual Studio 2010\Projects\Compiler\CompilersUtils\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\simp\Documents\Visual Studio 2010\Projects\Compiler\CompilersUtils\obj\Debug\CompilersUtils.dll
+C:\Users\simp\Documents\Visual Studio 2010\Projects\Compiler\CompilersUtils\obj\Debug\CompilersUtils.pdb

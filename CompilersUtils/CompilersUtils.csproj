@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{90E0DB54-2CEC-4C35-AD0A-3DAB674E32C6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CompilersUtils</RootNamespace>
+    <AssemblyName>CompilersUtils</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="antlr.runtime">
+      <HintPath>..\antlr.runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Antlr3.Runtime">
+      <HintPath>..\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AST - Hierarchy\DeclarationBlockNode.cs" />
+    <Compile Include="AST - Hierarchy\FunctionsBlockNode.cs" />
+    <Compile Include="AST - Hierarchy\ArrayNode.cs" />
+    <Compile Include="AST - Hierarchy\CallFunctionNode.cs" />
+    <Compile Include="AST - Hierarchy\EqualityNode.cs" />
+    <Compile Include="AST - Hierarchy\AndNode.cs" />
+    <Compile Include="AST - Hierarchy\ArithmeticOpNode.cs" />
+    <Compile Include="AST - Hierarchy\TypeArrayNode.cs" />
+    <Compile Include="AST - Hierarchy\AssingmentNode.cs" />
+    <Compile Include="AST - Hierarchy\BinaryOpNode.cs" />
+    <Compile Include="AST - Hierarchy\BreakNode.cs" />
+    <Compile Include="AST - Hierarchy\FunctionDeclNode.cs" />
+    <Compile Include="AST - Hierarchy\IfThenElseNode.cs" />
+    <Compile Include="AST - Hierarchy\ProgramNode.cs" />
+    <Compile Include="AST - Hierarchy\ControlNode.cs" />
+    <Compile Include="AST - Hierarchy\DeclarationNode.cs" />
+    <Compile Include="AST - Hierarchy\DistinctNode.cs" />
+    <Compile Include="AST - Hierarchy\DivNode.cs" />
+    <Compile Include="AST - Hierarchy\ElemArrayNode.cs" />
+    <Compile Include="AST - Hierarchy\EqualNode.cs" />
+    <Compile Include="AST - Hierarchy\FieldRecordNode.cs" />
+    <Compile Include="AST - Hierarchy\ForNode.cs" />
+    <Compile Include="AST - Hierarchy\GreaterEqualThanNode.cs" />
+    <Compile Include="AST - Hierarchy\GreaterThanNode.cs" />
+    <Compile Include="AST - Hierarchy\VariableNode.cs" />
+    <Compile Include="AST - Hierarchy\IfThenNode.cs" />
+    <Compile Include="AST - Hierarchy\InstructionNode.cs" />
+    <Compile Include="AST - Hierarchy\IntNode.cs" />
+    <Compile Include="AST - Hierarchy\LessEqualThanNode.cs" />
+    <Compile Include="AST - Hierarchy\LessThanNode.cs" />
+    <Compile Include="AST - Hierarchy\LetNode.cs" />
+    <Compile Include="AST - Hierarchy\LogicOpNode.cs" />
+    <Compile Include="AST - Hierarchy\LValueNode.cs" />
+    <Compile Include="AST - Hierarchy\MinusNode.cs" />
+    <Compile Include="AST - Hierarchy\MinusUnaryNode.cs" />
+    <Compile Include="AST - Hierarchy\MultNode.cs" />
+    <Compile Include="AST - Hierarchy\NilNode.cs" />
+    <Compile Include="AST - Hierarchy\OperatorNode.cs" />
+    <Compile Include="AST - Hierarchy\OrNode.cs" />
+    <Compile Include="AST - Hierarchy\PlusNode.cs" />
+    <Compile Include="AST - Hierarchy\ExprSeqNode.cs" />
+    <Compile Include="Compiler.cs" />
+    <Compile Include="Error.cs" />
+    <Compile Include="Info.cs" />
+    <Compile Include="AST - Hierarchy\ListLValueNode.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="AST - Hierarchy\TypeRecordNode.cs" />
+    <Compile Include="AST - Hierarchy\RelationalOpNode.cs" />
+    <Compile Include="AST - Hierarchy\StringNode.cs" />
+    <Compile Include="AST - Hierarchy\TigerNode.cs" />
+    <Compile Include="AST - Hierarchy\TypeDeclNode.cs" />
+    <Compile Include="AST - Hierarchy\TypeAliasNode.cs" />
+    <Compile Include="AST - Hierarchy\UnaryOpNode.cs" />
+    <Compile Include="AST - Hierarchy\VariableDeclNode.cs" />
+    <Compile Include="AST - Hierarchy\WhileNode.cs" />
+    <Compile Include="AST - Hierarchy\RecordNode.cs" />
+    <Compile Include="Scope.cs" />
+    <Compile Include="AST - Hierarchy\TypesBlockNode.cs" />
+    <Compile Include="tiger_grammarLexer.cs" />
+    <Compile Include="tiger_grammarParser.cs" />
+    <Compile Include="Utils.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

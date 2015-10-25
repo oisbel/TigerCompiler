@@ -1,0 +1,14 @@
+/* error : variable not array */
+let 
+	type intarray = array of int
+	var m := 2 
+	type Student = {Notas:intarray}
+	var k := "pepe"
+	type array_rec = array of Student 
+	var a := intarray[3] of 50 + 50 
+	var b := Student{Notas=a} 
+	var c:array_rec := array_rec[5] of b
+in
+	c[2].Notas[0]
+end
+

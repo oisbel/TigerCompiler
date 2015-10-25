@@ -1,0 +1,6 @@
+let
+in
+print("Hello simpson");
+print("Hello Karla");
+print("Hello Dani")
+end
